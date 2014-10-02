@@ -1,0 +1,289 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 466
+Number of records retrieved in searches: 6682
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 8
+	Country: Brazil ; Times: 8
+	Country: Chile ; Times: 11
+	Country: Colombia ; Times: 136
+	Country: Finland ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 275
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 53
+	Date: 2014-09-02 ; Times: 33
+	Date: 2014-09-03 ; Times: 7
+	Date: 2014-09-04 ; Times: 9
+	Date: 2014-09-05 ; Times: 24
+	Date: 2014-09-06 ; Times: 1
+	Date: 2014-09-07 ; Times: 3
+	Date: 2014-09-08 ; Times: 35
+	Date: 2014-09-09 ; Times: 8
+	Date: 2014-09-10 ; Times: 4
+	Date: 2014-09-11 ; Times: 3
+	Date: 2014-09-12 ; Times: 17
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 2
+	Date: 2014-09-15 ; Times: 11
+	Date: 2014-09-16 ; Times: 5
+	Date: 2014-09-17 ; Times: 41
+	Date: 2014-09-18 ; Times: 4
+	Date: 2014-09-19 ; Times: 71
+	Date: 2014-09-20 ; Times: 6
+	Date: 2014-09-21 ; Times: 3
+	Date: 2014-09-22 ; Times: 59
+	Date: 2014-09-23 ; Times: 55
+	Date: 2014-09-24 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera musculus type:specimen" ; Times: 1
+	Query: "Mus pahari" ; Times: 1
+	Query: "Hylobates albibarbis" ; Times: 1
+	Query: "Myotis velifer Nevada" ; Times: 1
+	Query: "recordedby:heinrich year >= 1900 year <= 1920" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 4
+	Query: "isthmomys" ; Times: 1
+	Query: "stateprovince:"CA"" ; Times: 1
+	Query: "Peromyscus sejugis" ; Times: 3
+	Query: "Philander opossum year >= 1980 year <= 2014" ; Times: 1
+	Query: "lontra felina" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lynx rufus escuinapae" ; Times: 1
+	Query: "Bassaricyon country:"Colombia"" ; Times: 1
+	Query: "anatinus" ; Times: 2
+	Query: "giraffa" ; Times: 2
+	Query: "dromiciops country:"chile"" ; Times: 1
+	Query: "panthera onca" ; Times: 13
+	Query: "catalognumber:70532 institutioncode:AMNH" ; Times: 1
+	Query: "Eptesicus country:"Ecuador" (innoxius)" ; Times: 1
+	Query: "Dromiciops" ; Times: 1
+	Query: "233102" ; Times: 1
+	Query: "skin (coendou OR sphiggurus OR chaetomys)" ; Times: 3
+	Query: "class:Mammalia lutra" ; Times: 3
+	Query: "Alcelaphus buselaphus" ; Times: 1
+	Query: "perognathus hispidus" ; Times: 1
+	Query: "typhlomys" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "mystacina tuberculata" ; Times: 1
+	Query: "class:Mammalia catalognumber:35749" ; Times: 2
+	Query: "theropithecus" ; Times: 1
+	Query: "(Sotalia)" ; Times: 1
+	Query: "Eptesicus stateprovince:"El Oro" country:"Ecuador" institutioncode:AMNH" ; Times: 1
+	Query: "Peromyscus dickeyi" ; Times: 1
+	Query: "mus musculus pakistan" ; Times: 2
+	Query: "Hylobates muelleri year >= 1500 year <= 2020" ; Times: 1
+	Query: "231191" ; Times: 1
+	Query: "TAMANDUA TETRADACTYLA" ; Times: 2
+	Query: "223631" ; Times: 1
+	Query: "country:"Ethiopia"" ; Times: 1
+	Query: ""skull" stateprovince:"Florida" specificepithet:carolinensis genus:Sciurus" ; Times: 2
+	Query: "echinops telfairi" ; Times: 1
+	Query: "nasuella olivacea" ; Times: 1
+	Query: "caenolestes" ; Times: 3
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "type:specimen country:"ecuador" specificepithet:brasiliensis genus:sylvilagus year <= 2014" ; Times: 4
+	Query: "Tupaia" ; Times: 1
+	Query: "class:Mammalia dinomys branickii" ; Times: 1
+	Query: "Mus lasiurus" ; Times: 2
+	Query: "Eptesicus stateprovince:"Zamora" country:"Ecuador"" ; Times: 1
+	Query: "mystacina" ; Times: 1
+	Query: "stateprovince:"maryland" specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "specificepithet:sciureus genus:holochilus" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 3
+	Query: "Urocyon cinereoargenteus country:"Colombia"" ; Times: 1
+	Query: "Ethiopia Mammalian" ; Times: 1
+	Query: "230400" ; Times: 1
+	Query: "country:"Colombia" genus:procyon" ; Times: 3
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "type:specimen country:"colombia" specificepithet:brasiliensis genus:sylvilagus year <= 2014" ; Times: 5
+	Query: "atherurus macrourus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "country:"Belize" specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "lampronycteris brachyotis" ; Times: 2
+	Query: "Sciurillus" ; Times: 1
+	Query: ""Glossophaga longirostris" type:specimen country:"Colombia"" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 6
+	Query: "class:Mammalia dinomys" ; Times: 2
+	Query: "Bassaricyon institutioncode:AMNH" ; Times: 1
+	Query: "Pteropus ocularis" ; Times: 1
+	Query: "dromiciops" ; Times: 4
+	Query: "(coendou OR sphiggurus OR chaetomys)" ; Times: 6
+	Query: "lontra provocax" ; Times: 1
+	Query: "Hylobates albibarbis year >= 1500 year <= 2020" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "provocax" ; Times: 3
+	Query: "cryptotis mexicana" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "class:Mammalia lutra lutra" ; Times: 4
+	Query: ""Panthera leo" type:specimen year >= 1800 year <= 1930" ; Times: 3
+	Query: "231042" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "panthera onca colombia" ; Times: 1
+	Query: "alouatta institutioncode:AMNH" ; Times: 1
+	Query: "oryx" ; Times: 1
+	Query: "Eschrichtius skull" ; Times: 106
+	Query: "Nasua nasua country:"Colombia"" ; Times: 1
+	Query: "Panthera Onca country:"Colombia"" ; Times: 1
+	Query: "stateprovince:"Cundinamarca" country:"Colombia" class:Mammalia" ; Times: 3
+	Query: "lompo batang" ; Times: 1
+	Query: "perognathus hispidus dakota" ; Times: 1
+	Query: "country:"Colombia" genus:Cerdocyon class:Mammalia" ; Times: 1
+	Query: "Eptesicus country:"Ecuador" institutioncode:AMNH" ; Times: 1
+	Query: "Bassaricyon medius" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "Mustela eversmannii" ; Times: 3
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "country:"Colombia" genus:potos" ; Times: 94
+	Query: "catalognumber:14185 institutioncode:AMNH" ; Times: 2
+	Query: "Eptesicus country:"Ecuador" institutioncode:AMNH (innoxius)" ; Times: 1
+	Query: "Eschrichtiidae skull" ; Times: 14
+	Query: "pan troglodytes" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Alabama"" ; Times: 1
+	Query: "cystophora cristata" ; Times: 1
+	Query: "balaenoptera acutorostrata skull" ; Times: 1
+	Query: "Eptesicus stateprovince:"El Oro" country:"Ecuador"" ; Times: 1
+	Query: "genus:Cerdocyon class:Mammalia" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 4
+	Query: "Chlamyphorus" ; Times: 1
+	Query: "236424" ; Times: 1
+	Query: "lynx rufus baileyi" ; Times: 2
+	Query: "223937" ; Times: 1
+	Query: "Sorex veraecrucis" ; Times: 1
+	Query: "Mongolia Mammalia AND (NOT MSB)" ; Times: 2
+	Query: "loxodonta" ; Times: 2
+	Query: ""Panthera leo"" ; Times: 1
+	Query: "Dendrolagus" ; Times: 3
+	Query: "myotis germany" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "latimodjong" ; Times: 1
+	Query: "Cynocephalidae" ; Times: 1
+	Query: "loxodonta skull" ; Times: 2
+	Query: "country:"Colombia" genus:PROCYON" ; Times: 1
+	Query: "Oecomys paricola" ; Times: 1
+	Query: "type:specimen AND (Panthera leo) year >= 1800 year <= 1930" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 7
+	Query: "microtus pennsylvanicus maine" ; Times: 1
+	Query: "orthogeomys cuniculus" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Myotis thysanodes Nevada" ; Times: 2
+	Query: "Eptesicus brasiliensis country:"Ecuador"" ; Times: 1
+	Query: "Alouatta" ; Times: 16
+	Query: "PROCYON type:specimen country:"COLOMBIA"" ; Times: 1
+	Query: "country:"Colombia" genus:mustela" ; Times: 3
+	Query: "203805 institutioncode:AMNH" ; Times: 1
+	Query: "latimodjong mappable:1" ; Times: 2
+	Query: "callithrix" ; Times: 4
+	Query: "pteropus melanopogon" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 164 download events in this period)
+Total number of records downloaded: 101661 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 50814
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 3
+	Date: 2014-09-03 ; Times: 2
+	Date: 2014-09-04 ; Times: 3
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-11 ; Times: 8
+	Date: 2014-09-12 ; Times: 7
+	Date: 2014-09-15 ; Times: 5
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 5
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 4
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "Desmodus rotundus country:"Brazil"" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "mammalia AND Alabama" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Grulla" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "tachyglossidae; skull" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Sorex" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "NASUA" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "alouatta institutioncode:AMNH" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "caenolestes" ; Times: 2
+	Query: "Philander opossum year >= 1980 year <= 2014" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "stateprovince:"Louisiana" specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "Sorex saussurei" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Sorex" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Peromyscus maniculatus tissue:1" ; Times: 1
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "type:specimen genus:Lasiurus year >= 1990 year <= 2014 tissue:1" ; Times: 1
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3492
+Total number of records retrieved from searches: 65627
+Number of download events that retrieved data from the resource: 436
+Total number of records downloaded: 357265
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3492
+Total number of records retrieved from searches: 65627
+Number of download events that retrieved data from the resource: 436
+Total number of records downloaded: 357265
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
