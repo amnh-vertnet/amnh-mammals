@@ -1,0 +1,358 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 427
+Number of records retrieved in searches: 7737
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 8
+	Country: Brazil ; Times: 12
+	Country: Colombia ; Times: 6
+	Country: Czech Republic ; Times: 3
+	Country: France ; Times: 10
+	Country: Germany ; Times: 2
+	Country: Hungary ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Latvia ; Times: 1
+	Country: Mexico ; Times: 195
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 178
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 14
+	Date: 2015-02-03 ; Times: 186
+	Date: 2015-02-04 ; Times: 9
+	Date: 2015-02-05 ; Times: 12
+	Date: 2015-02-06 ; Times: 11
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 2
+	Date: 2015-02-09 ; Times: 12
+	Date: 2015-02-10 ; Times: 11
+	Date: 2015-02-11 ; Times: 11
+	Date: 2015-02-12 ; Times: 13
+	Date: 2015-02-13 ; Times: 11
+	Date: 2015-02-14 ; Times: 24
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-16 ; Times: 10
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-18 ; Times: 5
+	Date: 2015-02-19 ; Times: 13
+	Date: 2015-02-20 ; Times: 13
+	Date: 2015-02-21 ; Times: 4
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 9
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 6
+	Date: 2015-02-27 ; Times: 17
+	Date: 2015-02-28 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "new britain institutioncode:AMNH" ; Times: 1
+	Query: "carl akeley" ; Times: 3
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Crocidura russula iran" ; Times: 1
+	Query: "Isthmomys flavidus" ; Times: 2
+	Query: "bistriata" ; Times: 1
+	Query: "heliophobius argenteocinereus" ; Times: 3
+	Query: "AMNH 4177" ; Times: 1
+	Query: "chiropodomys tissue:1" ; Times: 1
+	Query: "lako" ; Times: 2
+	Query: "stateprovince:"loreto" country:"peru" genus:alouatta" ; Times: 1
+	Query: "chiroptera country:"LAOS" institutioncode:amnh" ; Times: 2
+	Query: "type:specimen stateprovince:"South Carolina" specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "solenodon" ; Times: 2
+	Query: "Lepus flavigularis" ; Times: 4
+	Query: "specificepithet:talamancae genus:Oryzomys" ; Times: 1
+	Query: "country:"Brazil" (Bolomys)" ; Times: 2
+	Query: "Lepus callotis" ; Times: 174
+	Query: "caenolestes tissue:1" ; Times: 1
+	Query: "Proechimys hoplomyoides" ; Times: 1
+	Query: "AMNH 12039" ; Times: 1
+	Query: "Tamias amoenus caurinus" ; Times: 1
+	Query: "beebe institutioncode:amnh" ; Times: 1
+	Query: "specificepithet:abrasus (molossidae)" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "sciurillus" ; Times: 1
+	Query: "akeley" ; Times: 1
+	Query: "order: rodentia reithrodontomys megalotis type:specimen (llano de las flores)" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:alfaroi genus:Oryzomys year >= 1990 year <= 2014" ; Times: 1
+	Query: "genus:bradypus" ; Times: 3
+	Query: "specificepithet:abrasus (Molossidae)" ; Times: 2
+	Query: "AMNH 5860" ; Times: 1
+	Query: "amnh 123116" ; Times: 1
+	Query: "Isthmomys pirrensis" ; Times: 3
+	Query: "genus:Hyperacrius" ; Times: 1
+	Query: "aguadita" ; Times: 3
+	Query: "Ceratotherium simum" ; Times: 7
+	Query: ""Tylomys nudicaudus" type:specimen country:"Guatemala" specificepithet:nudicaudus genus:Tylomys year >= 1900 year <= 2020" ; Times: 2
+	Query: "cephalophus silvicultor" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 2
+	Query: "county:"Norfolk" stateprovince:"Massachusetts" class:Mammalia year <= 2015" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia institutioncode:AMNH" ; Times: 1
+	Query: ""Tylomys nudicaudus" type:specimen specificepithet:nudicaudus genus:Tylomys" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:glaucus genus:Artibeus" ; Times: 1
+	Query: "ichneumia albicauda" ; Times: 1
+	Query: "genus:Olallamys" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "subflavus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Odocoileus hemionus country:"Mexico" (Baja California)" ; Times: 2
+	Query: "238793" ; Times: 1
+	Query: "crocidura elongata" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "Tui" ; Times: 1
+	Query: "stateprovince:"PA"" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:holochilus" ; Times: 1
+	Query: "mustela nigripes South Dakota" ; Times: 4
+	Query: "stateprovince:"chiriqui" country:"panama" genus:alouatta" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "peromyscus ann arbor AND (NOT ummz)" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias year >= 1920" ; Times: 1
+	Query: "amnh 163783" ; Times: 1
+	Query: "genus:andalgalomys" ; Times: 1
+	Query: "leopardus pardalis country:"Mexico"" ; Times: 1
+	Query: "la manzanilla" ; Times: 1
+	Query: "variegatoides" ; Times: 1
+	Query: "Tamiasciurus mearnsi" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:americanus genus:Lepus" ; Times: 2
+	Query: "amnh 153945" ; Times: 2
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts" class:Mammalia" ; Times: 1
+	Query: "Mammal Sulawesi" ; Times: 7
+	Query: "Crocidura russula country:"iran"" ; Times: 1
+	Query: "natunae" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "type:specimen country:"colombia" specificepithet:brasiliensis genus:sylvilagus" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:aotus" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:fortidens genus:Myotis year >= 1900 year <= 2020" ; Times: 2
+	Query: "geomys breviceps stateprovince:"Louisiana"" ; Times: 2
+	Query: "type:specimen specificepithet:domestica genus:monodelphis year >= 1950 year <= 2015" ; Times: 1
+	Query: "specificepithet:ucayalensis genus:scolomys" ; Times: 1
+	Query: "Don Diego santa marta" ; Times: 1
+	Query: "maxomys" ; Times: 1
+	Query: "genus:wilfredomys" ; Times: 1
+	Query: "country:"Colombia" specificepithet:longicaudis" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "Dactylomys" ; Times: 2
+	Query: "Panthera onca country:"Mexico"" ; Times: 1
+	Query: "Proechimys decumanus" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:Saguinus" ; Times: 1
+	Query: "country:"Colombia" genus:Lasiurus" ; Times: 1
+	Query: "Didelphis virginiana type:specimen (pouch)" ; Times: 1
+	Query: "specificepithet:microdon genus:Reithrodontomys" ; Times: 1
+	Query: "riga" ; Times: 1
+	Query: "bassaricyon country:"Colombia"" ; Times: 1
+	Query: "specificepithet:xanthaeolus genus:Oryzomys" ; Times: 1
+	Query: "country:"Ecuador" genus:Histiotus" ; Times: 1
+	Query: "myotis lucifugus stateprovince:"Pennsylvania" year >= 1600 year <= 1959" ; Times: 1
+	Query: "cassowary" ; Times: 3
+	Query: "country:"Colombia" specificepithet:thous" ; Times: 4
+	Query: "amnh 163779" ; Times: 1
+	Query: "amnh 163797" ; Times: 1
+	Query: "amnh 163796" ; Times: 1
+	Query: "country:"Ecuador" genus:Promops" ; Times: 1
+	Query: "myotis lucifugus pennsylvania" ; Times: 1
+	Query: "amnh 163793" ; Times: 2
+	Query: "amnh 163791" ; Times: 2
+	Query: "amnh 163790" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "chiroptera country:"thailand" institutioncode:amnh" ; Times: 1
+	Query: "order: rodentia reithrodontomys megalotis (oaxaca)" ; Times: 1
+	Query: "Macaca fascicularis Thailand" ; Times: 1
+	Query: "amnh 163798" ; Times: 2
+	Query: "myrmecophaga" ; Times: 2
+	Query: "country:"Colombia" genus:lontra" ; Times: 1
+	Query: "stateprovince:"chiriqui" country:"panama" genus:cebus" ; Times: 1
+	Query: "genus:Ursus year >= 1931 year <= 1933" ; Times: 2
+	Query: "specificepithet:triton genus:Tscherskia" ; Times: 1
+	Query: "reithrodontomys rodriguezi" ; Times: 3
+	Query: "Gorgona Island" ; Times: 1
+	Query: "chiropodomys" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "specificepithet:sungorus genus:Phodopus" ; Times: 1
+	Query: "specificepithet:barabensis genus:cricetulus" ; Times: 1
+	Query: "catalognumber:242347" ; Times: 1
+	Query: "AMNH A-165195" ; Times: 1
+	Query: "country:"Mexico" genus:Eira" ; Times: 2
+	Query: "amnh 163784" ; Times: 1
+	Query: "genus:Lundomys" ; Times: 1
+	Query: "amnh 163782" ; Times: 1
+	Query: "jamaica institutioncode:amnh" ; Times: 1
+	Query: "specificepithet:melanops genus:scolomys" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "genus:Micoureus" ; Times: 1
+	Query: "genus:Berardius" ; Times: 1
+	Query: "vulpes pallida" ; Times: 1
+	Query: "specificepithet:lynx genus:lynx" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Proechimys canicollis" ; Times: 1
+	Query: "country:"Peru" genus:alouatta" ; Times: 4
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Proechimys mincae" ; Times: 1
+	Query: "40194 (mammalia)" ; Times: 1
+	Query: "Caenolestes convelatus" ; Times: 1
+	Query: "Crunomys" ; Times: 1
+	Query: "amnh 163807" ; Times: 1
+	Query: "Ethiopia type:specimen class:Mammalia" ; Times: 1
+	Query: "amnh 163805" ; Times: 1
+	Query: "rhinoceros sondaicus" ; Times: 5
+	Query: "AMNH-A 165195" ; Times: 1
+	Query: "genus:scolomys" ; Times: 1
+	Query: "canis lupus stateprovince:"California"" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "catalognumber:19445 institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias" ; Times: 1
+	Query: "colimensis" ; Times: 1
+	Query: "chiroptera country:"Laos" institutioncode:amnh" ; Times: 1
+	Query: "binturong AMNH" ; Times: 5
+	Query: "civet AMNH" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "Lako" ; Times: 3
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "county:"chesapeake" stateprovince:"Virginia" class:mammalia year >= 1940 year <= 2015" ; Times: 1
+	Query: "type:specimen genus:Ursus year >= 1931 year <= 1933" ; Times: 1
+	Query: "genus:Histiotus tissue:1" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "echimyidae stateprovince:"para" country:"Brazil"" ; Times: 3
+	Query: "blarina stateprovince:"kansas"" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:septentrionalis" ; Times: 2
+	Query: "canis aureus" ; Times: 1
+	Query: "type:specimen stateprovince:"Florida" specificepithet:floridana genus:neotoma year >= 1970 year <= 2015" ; Times: 1
+	Query: ""Tylomys nudicaudus" type:specimen specificepithet:nudicaudus genus:Tylomys year >= 1900 year <= 2020" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 326 download events in this period)
+Total number of records downloaded: 30535 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29500
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 6
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 6
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 5
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 14
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "specificepithet:socialis genus:Microtus" ; Times: 1
+	Query: "genus:Hyperacrius" ; Times: 1
+	Query: "liomys irroratus stateprovince:"oaxaca" country:"Mexico"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "recordedby:Beebe institutioncode:AMNH year >= 1916 year <= 1916" ; Times: 1
+	Query: "Proechimys goeldii" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:cricetulus" ; Times: 1
+	Query: "genus:Monodon" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "specificepithet:roborovskii genus:Phodopus" ; Times: 1
+	Query: "Canis latrans country:"Mexico" mappable:1" ; Times: 1
+	Query: "Macrotus waterhousii type:specimen (Bahama OR Bahamas)" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "papantla" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Maynard institutioncode:amnh" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "Proechimys cayennensis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Proechimys guairae" ; Times: 1
+	Query: "Bolomys" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "peromyscus zarhynchus" ; Times: 1
+	Query: "genus:Grampus" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: ""Canis lupus baileyi"" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "beebe institutioncode:amnh" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "stateprovince:"New York" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "jamaica institutioncode:amnh" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Proechimys canicollis" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "Petrogale penicillata" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "stateprovince:"North Carolina" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "genus:Berardius" ; Times: 1
+	Query: "specificepithet:migratorius genus:cricetulus" ; Times: 1
+	Query: "echimyidae stateprovince:"para" country:"Brazil"" ; Times: 1
+	Query: "Chaetodipus arenarius" ; Times: 1
+	Query: "maxomys" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4508
+Total number of records retrieved from searches: 85790
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 112440
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 5067
+Total number of records retrieved from searches: 92704
+Number of download events that retrieved data from the resource: 826
+Total number of records downloaded: 513333
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
