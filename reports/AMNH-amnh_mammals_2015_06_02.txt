@@ -1,0 +1,703 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 826
+Number of records retrieved in searches: 11298
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 19
+	Country: Belgium ; Times: 7
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 23
+	Country: Colombia ; Times: 40
+	Country: Costa Rica ; Times: 24
+	Country: Czech Republic ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 9
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 40
+	Country: Micronesia ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 410
+	Country: Unknown ; Times: 197
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 17
+	Date: 2015-05-06 ; Times: 12
+	Date: 2015-05-07 ; Times: 14
+	Date: 2015-05-08 ; Times: 46
+	Date: 2015-05-09 ; Times: 9
+	Date: 2015-05-10 ; Times: 3
+	Date: 2015-05-11 ; Times: 13
+	Date: 2015-05-12 ; Times: 34
+	Date: 2015-05-13 ; Times: 45
+	Date: 2015-05-14 ; Times: 30
+	Date: 2015-05-15 ; Times: 88
+	Date: 2015-05-16 ; Times: 9
+	Date: 2015-05-17 ; Times: 36
+	Date: 2015-05-18 ; Times: 30
+	Date: 2015-05-19 ; Times: 19
+	Date: 2015-05-20 ; Times: 30
+	Date: 2015-05-21 ; Times: 61
+	Date: 2015-05-22 ; Times: 14
+	Date: 2015-05-23 ; Times: 15
+	Date: 2015-05-24 ; Times: 6
+	Date: 2015-05-25 ; Times: 35
+	Date: 2015-05-26 ; Times: 88
+	Date: 2015-05-27 ; Times: 34
+	Date: 2015-05-28 ; Times: 36
+	Date: 2015-05-29 ; Times: 56
+	Date: 2015-05-30 ; Times: 40
+	Date: 2015-05-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "uncia" ; Times: 1
+	Query: "stateprovince:"Illinois" genus:Scalopus" ; Times: 1
+	Query: "Colombia Nasuella olivacea country:"Colombia"" ; Times: 1
+	Query: "specificepithet:fotsifotsy genus:Microgale" ; Times: 9
+	Query: "nycteris grandis" ; Times: 1
+	Query: "197853" ; Times: 2
+	Query: "119603" ; Times: 2
+	Query: "genus:Prionailurus (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Mus musculus county:"San Diego"" ; Times: 1
+	Query: "Taxidea taxus county:"Kern"" ; Times: 2
+	Query: "canis lupus NOT familiaris stateprovince:"California"" ; Times: 1
+	Query: "Colombia puma concolor" ; Times: 1
+	Query: "specificepithet:bogotensis genus:Akodon" ; Times: 3
+	Query: "golunda ellioti" ; Times: 1
+	Query: "country:"Mexico" specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "Diplomys labilis" ; Times: 3
+	Query: "country:"PERU" genus:HOLOCHILUS institutioncode:AMNH" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "leopoldamys neilli" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Centronycteris centralis" ; Times: 2
+	Query: "specificepithet:onca genus:panthera (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "cremnomys" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "AMNH 182718" ; Times: 1
+	Query: "Phacochoerus aethiopicus aethiopicus" ; Times: 1
+	Query: ""Osbornictis piscivora"" ; Times: 2
+	Query: "sciurus variegatoides institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:palliatus genus:Paraxerus" ; Times: 2
+	Query: "catalognumber:216743 institutioncode:AMNH" ; Times: 2
+	Query: "catalognumber:160269 institutioncode:AMNH" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "AMNH 143299" ; Times: 2
+	Query: "Dipodomys deserti county:"San Diego"" ; Times: 1
+	Query: "188298 institutioncode:amnh" ; Times: 4
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "Procyon stateprovince:"baja california" country:"mexico"" ; Times: 1
+	Query: "nyctimene (FA)" ; Times: 1
+	Query: "specificepithet:leptonyx genus:Hydrurga (skull)" ; Times: 1
+	Query: "ukraine" ; Times: 1
+	Query: "genus:Pan paniscus" ; Times: 3
+	Query: "catalognumber:221827" ; Times: 5
+	Query: "prionailurus bengalensis mappable:1" ; Times: 1
+	Query: "catalognumber:253539" ; Times: 2
+	Query: "262956" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "rhogeessa minutilla" ; Times: 1
+	Query: "Prionomys" ; Times: 1
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 2
+	Query: "canis latrans stateprovince:"baja california" country:"Mexico"" ; Times: 1
+	Query: "nana Jamaica" ; Times: 2
+	Query: "Lobodon carcinophagus" ; Times: 3
+	Query: "Chrysocyon brachyurus" ; Times: 3
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "Rattus rattus county:"San Diego"" ; Times: 1
+	Query: "Lycalopex sechurae" ; Times: 1
+	Query: "Colombia Lontra longicaudis country:"Colombia"" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "ateles geoffroyi veracruz" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 3
+	Query: "Sciurus griseus county:"San Diego"" ; Times: 1
+	Query: "catalognumber:264980" ; Times: 1
+	Query: "country:"Ecuador" genus:Cormura" ; Times: 3
+	Query: "Microgale fotsifotsy" ; Times: 22
+	Query: ""Philander opossum" institutioncode:AMNH" ; Times: 1
+	Query: "Rattus norvegicus county:"san diego"" ; Times: 1
+	Query: "Peromyscus maniculatus bairdii stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "conepatus chinga" ; Times: 2
+	Query: "Leopardus pajeros" ; Times: 2
+	Query: "AMNH 124468" ; Times: 1
+	Query: "panthera uncia" ; Times: 7
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "Allenopithecus" ; Times: 2
+	Query: "hyaena hyaena (skull zoo)" ; Times: 1
+	Query: "lycaon pictus (skull zoo)" ; Times: 1
+	Query: "Myotis thysanodes county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "AMNH 93593" ; Times: 2
+	Query: "Nyctinomops laticaudatus ferruginea" ; Times: 2
+	Query: "pteronura brasiliensis" ; Times: 3
+	Query: "specificepithet:tigris genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "marmota himalayana" ; Times: 2
+	Query: "Colombia Urocyon cinereoargenteus country:"Colombia"" ; Times: 1
+	Query: "AMNH 95497" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Thomasomys pyrrhonotus" ; Times: 3
+	Query: "country:"Mexico" specificepithet:geoffroyi genus:Ateles" ; Times: 1
+	Query: "perez zeledon" ; Times: 1
+	Query: "AMNH 95498" ; Times: 1
+	Query: "catalognumber:233969 institutioncode:AMNH" ; Times: 2
+	Query: "A.W. Anthony institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (juvenile)" ; Times: 1
+	Query: "Rattus norvegicus county:"San Diego"" ; Times: 1
+	Query: ""Lontra canadensis" year >= 1845 year <= 1900" ; Times: 1
+	Query: "AMNH 138468" ; Times: 2
+	Query: "AMNH 110472" ; Times: 2
+	Query: "AMNH 38097" ; Times: 1
+	Query: "catalognumber:240483 institutioncode:AMNH" ; Times: 2
+	Query: "class:Mammalia Allenopithecus nigroviridis" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "rhynchocyon cirnei year >= 1800 year <= 1934" ; Times: 2
+	Query: "uncia uncia" ; Times: 13
+	Query: "catalognumber:240482 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 262425" ; Times: 1
+	Query: "Orthogeomys cavator" ; Times: 4
+	Query: "specificepithet:onca genus:panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Myotis evotis county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Layne type:specimen county:"Highlands"" ; Times: 2
+	Query: "baily" ; Times: 1
+	Query: "panthera tigris (skull zoo)" ; Times: 1
+	Query: "specificepithet:leander genus:Anotomys" ; Times: 10
+	Query: "country:"Peru" recordedby:Olalla institutioncode:AMNH year >= 1928 year <= 1928" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "underwood institutioncode:amnh" ; Times: 1
+	Query: "specificepithet:guardia genus:Peromyscus" ; Times: 6
+	Query: "188298" ; Times: 1
+	Query: "catalognumber:115065 institutioncode:AMNH" ; Times: 1
+	Query: "genus:bradypus" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "AMNH 78643" ; Times: 1
+	Query: "AMNH 12703" ; Times: 2
+	Query: "AMNH 12704" ; Times: 1
+	Query: "peromyscus stirtoni" ; Times: 1
+	Query: "burzil" ; Times: 1
+	Query: "sciurotamias forresti" ; Times: 3
+	Query: "genus:Leopardus (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "rhynchocyon cirnei stuhlmanni" ; Times: 2
+	Query: "new york odocoileus virginianus AND (NOT sound NOT film)" ; Times: 2
+	Query: "Rhynchocyon cirnei" ; Times: 4
+	Query: "country:"Mexico" specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "genus:Panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Underwood country:"Honduras" (El Picacho)" ; Times: 1
+	Query: "Lycalopex" ; Times: 3
+	Query: "rattus nitidus" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 3
+	Query: "genus:Leopardus (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "AG 259" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "zarcero" ; Times: 2
+	Query: "specificepithet:dominator genus:Paruromys" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Heller 1911" ; Times: 1
+	Query: "catalognumber:99842 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 4463" ; Times: 1
+	Query: "genus:Pan" ; Times: 1
+	Query: "leopoldamys" ; Times: 1
+	Query: "119602" ; Times: 1
+	Query: "genus:Bunomys" ; Times: 5
+	Query: "Lasiurus cinereus county:"San Diego"" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "catalognumber:174015 institutioncode:AMNH" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "ursus arctos stateprovince:"british columbia"" ; Times: 5
+	Query: "genus:Taeromys" ; Times: 2
+	Query: "Myotis nigricans institutioncode:AMNH (Nachman) year >= 1988 year <= 1988" ; Times: 1
+	Query: "Troglodytes year >= 1946 year <= 1946" ; Times: 1
+	Query: "rhynchocyon cirnei" ; Times: 4
+	Query: "AMNH 64026" ; Times: 1
+	Query: "catalognumber:145918 institutioncode:AMNH" ; Times: 2
+	Query: "Neonycteris pusilla" ; Times: 3
+	Query: "tapirus bairdii" ; Times: 3
+	Query: "genus:chlamyphorus" ; Times: 2
+	Query: "58062" ; Times: 1
+	Query: "pan paniscus" ; Times: 2
+	Query: "Alouatta seniculus venezuela" ; Times: 1
+	Query: "AMNH 73094" ; Times: 2
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Lagothrix poeppigii" ; Times: 9
+	Query: "specificepithet:bocharicus genus:Rhinolophus" ; Times: 3
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "class:Mammalia Allenopithecus" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 2
+	Query: "Notoryctemorphia" ; Times: 1
+	Query: "AMNH 56035" ; Times: 2
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Perognathus penicillatus county:"San Diego"" ; Times: 1
+	Query: "marmota camtschatica" ; Times: 4
+	Query: "specificepithet:laniger genus:Thomasomys" ; Times: 1
+	Query: "AMNH 114754" ; Times: 2
+	Query: "1822 amnh" ; Times: 1
+	Query: "AMNH 114752" ; Times: 1
+	Query: "Colombia Bassaricyon gabbii country:"Colombia"" ; Times: 1
+	Query: "genus:panthera institutioncode:amnh (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "county:"Guatemala"" ; Times: 1
+	Query: "Mazama rufina" ; Times: 2
+	Query: "millardia meltada" ; Times: 1
+	Query: "Myotis elegans" ; Times: 2
+	Query: "orycteropus" ; Times: 2
+	Query: "catalognumber:244990 institutioncode:AMNH" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+	Query: "san felipe narrows stateprovince:"california"" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 19
+	Query: "genus:Leopardus (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:115064 institutioncode:AMNH" ; Times: 1
+	Query: ""lynx rufus" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:spalacinus genus:Tachyoryctes" ; Times: 2
+	Query: "Connochaetes" ; Times: 1
+	Query: "rheomys" ; Times: 1
+	Query: "catalognumber:232510 institutioncode:AMNH" ; Times: 2
+	Query: "75588" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena (zoo)" ; Times: 2
+	Query: "Balantiopteryx plicata stateprovince:"Veracruz" country:"Mexico"" ; Times: 1
+	Query: "nicasio specificepithet:cinereus genus:lasiurus year >= 1886 year <= 1935" ; Times: 1
+	Query: "catalognumber:160970" ; Times: 1
+	Query: "Underwood country:"Honduras" (El. Picacho)" ; Times: 1
+	Query: "Bauerus dubiaquercus" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "A. C. Buller country:"Mexico"" ; Times: 1
+	Query: "Bassaricyon gabbii country:"Colombia" (Colombia)" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena" ; Times: 1
+	Query: "mweru" ; Times: 1
+	Query: "Smutsia gigantea" ; Times: 1
+	Query: "genus:Pteronura (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "catalognumber:244970 institutioncode:AMNH" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 6
+	Query: "genus:Puma (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "AMNH 97011" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "genus:Leopardus (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Allenopithecus nigroviridis" ; Times: 4
+	Query: "122533" ; Times: 1
+	Query: ""Poiana richardsonii"" ; Times: 3
+	Query: "R 184443" ; Times: 1
+	Query: "genus:Puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "AMNH 96981" ; Times: 2
+	Query: "AMNH 96983" ; Times: 1
+	Query: "AMNH 272800" ; Times: 1
+	Query: "rheomys thomasi" ; Times: 2
+	Query: "genus:puma (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "specificepithet:vordermanni genus:Petinomys" ; Times: 8
+	Query: "Rousettus country:"India" institutioncode:AMNH year >= 1975 year <= 1975" ; Times: 1
+	Query: "catalognumber:163573 institutioncode:amnh" ; Times: 2
+	Query: "AMNH 95443" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera institutioncode:AMNH (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"Alberta" genus:Microtus" ; Times: 2
+	Query: "specificepithet:onca genus:panthera (juvenile)" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 26
+	Query: "lontra longicaudis" ; Times: 3
+	Query: "country:"Mexico" specificepithet:palliata genus:Alouatta" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "catalognumber:233953 institutioncode:AMNH" ; Times: 2
+	Query: ""Tamandua mexicana" institutioncode:AMNH" ; Times: 1
+	Query: "Colombia Leopardus pardalis country:"Colombia"" ; Times: 1
+	Query: "AMNH 209322" ; Times: 1
+	Query: "Pteropus speciosus" ; Times: 2
+	Query: "AMNH 66798" ; Times: 3
+	Query: "millardia gleadowi" ; Times: 1
+	Query: "specificepithet:chrysocomus genus:Bunomys" ; Times: 5
+	Query: "catalognumber:239451 institutioncode:AMNH" ; Times: 2
+	Query: "spermophilus tereticaudus county:"San Diego"" ; Times: 1
+	Query: "Battle Creek recordedby:McGregor year >= 1898 year <= 1898" ; Times: 1
+	Query: "genus:Proechimys class:Mammalia hastypestatus:1" ; Times: 2
+	Query: "catalognumber:168433 institutioncode:amnh" ; Times: 1
+	Query: "thylacinus" ; Times: 2
+	Query: "type:specimen genus:Proechimys class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "Lasiurus cinereus country:"Mexico" mappable:1" ; Times: 1
+	Query: "county:"coahoma" stateprovince:"Mississippi"" ; Times: 1
+	Query: "Colombia puma concolor country:"Colombia"" ; Times: 1
+	Query: "Colombia Conepatus semistriatus country:"Colombia"" ; Times: 2
+	Query: "Richardson country:"Nicaragua"" ; Times: 4
+	Query: "Procyon lotor county:"San Diego"" ; Times: 1
+	Query: "amnh callicebus" ; Times: 9
+	Query: "Rhynchocyon cirnei year >= 1800 year <= 1934" ; Times: 3
+	Query: "Sigmodon san fernando tamaulipas" ; Times: 1
+	Query: "type:specimen (Rio Grande do Sul) year >= 1910 year <= 1940" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "genus:thylacinus" ; Times: 1
+	Query: "country:"Mexico" (Cordova)" ; Times: 2
+	Query: "specificepithet:tweedii genus:Ichthyomys" ; Times: 12
+	Query: "AMNH 71471" ; Times: 1
+	Query: "catalognumber:47301 institutioncode:AMNH" ; Times: 1
+	Query: "Colombia Nasua nasua country:"Colombia"" ; Times: 1
+	Query: "Sorex palustris stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "catalognumber:233970 institutioncode:AMNH" ; Times: 2
+	Query: "Colombia Tremarctos ornatus country:"Colombia"" ; Times: 1
+	Query: "genus:panthera (juvenile)" ; Times: 2
+	Query: "AMNH 49701" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "specificepithet:melanurus genus:Peromyscus" ; Times: 1
+	Query: "AMNH 4464" ; Times: 2
+	Query: "AMNH "Archbold Biological Station" type:specimen class:Mammalia" ; Times: 1
+	Query: "Colombia Mustela frenata country:"Colombia"" ; Times: 1
+	Query: "orthogeomys cuniculus" ; Times: 1
+	Query: "millardia" ; Times: 3
+	Query: "169828" ; Times: 1
+	Query: "civettictis civetta (skull)" ; Times: 2
+	Query: "AMNH 264927" ; Times: 1
+	Query: "perognathus tiburon" ; Times: 1
+	Query: "canis lupus stateprovince:"California"" ; Times: 1
+	Query: "f callicebus" ; Times: 1
+	Query: "AMNH 267635" ; Times: 1
+	Query: "hippotragus niger variani" ; Times: 1
+	Query: "amnh 161714" ; Times: 1
+	Query: "catalognumber:109836 institutioncode:amnh" ; Times: 1
+	Query: "genus:Puma institutioncode:AMNH (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "AMNH 108799" ; Times: 2
+	Query: "ailurus (skull)" ; Times: 1
+	Query: "civettictis civetta (skull zoo)" ; Times: 1
+	Query: "AMNH 104616" ; Times: 2
+	Query: "country:"Mexico" specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "Colombia Leopardus tigrinus country:"Colombia"" ; Times: 1
+	Query: "catalognumber:220019 institutioncode:AMNH" ; Times: 2
+	Query: "cremnomys blanfordi" ; Times: 1
+	Query: "Chrysochloris" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "specificepithet:leucotis genus:Acerodon" ; Times: 4
+	Query: "R-184488" ; Times: 1
+	Query: "Cerdocyon thous country:"Colombia" (Colombia)" ; Times: 1
+	Query: "254877" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: ""Lasionycteris noctivagans" stateprovince:"Montana" specificepithet:noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "Colombia Procyon cancrivorus country:"Colombia"" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 1
+	Query: "Colombia panthera onca" ; Times: 1
+	Query: "canis latrans peninsulae" ; Times: 1
+	Query: "millardia kathleenae" ; Times: 1
+	Query: ""Orthogeomys hispidus"" ; Times: 5
+	Query: "Colombia Eira Barbara country:"Colombia"" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"alberta" genus:microtus" ; Times: 4
+	Query: "specificepithet:lemniscatus genus:Funisciurus" ; Times: 19
+	Query: "Ateles fusciceps" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "Colombia Tremarctos ornatus" ; Times: 1
+	Query: "AMNH 142906" ; Times: 2
+	Query: "Onychomys torridus county:"San Diego"" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "specificepithet:onca genus:Panthera (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "Cercocebus galeritus" ; Times: 1
+	Query: "AMNH 64478" ; Times: 1
+	Query: "Colombia Galictis vittata country:"Colombia"" ; Times: 1
+	Query: "specificepithet:rhoadsi genus:Thomasomys" ; Times: 5
+	Query: ""Sciurus variegatoides" institutioncode:AMNH" ; Times: 8
+	Query: "genus:Melursus (juvenile)" ; Times: 3
+	Query: "Taxidea taxus county:"San Diego"" ; Times: 1
+	Query: "AMNH 96994" ; Times: 1
+	Query: "genus:Puma (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "hyaena hyaena (zoo)" ; Times: 2
+	Query: ""Orthogeomys hispidus" year >= 1840 year <= 1900" ; Times: 1
+	Query: "recordedby:McGregor year >= 1898 year <= 1898" ; Times: 4
+	Query: "AMNH 73843" ; Times: 2
+	Query: "tamias merriami county:"San Diego"" ; Times: 1
+	Query: "country:"COLOMBIA" genus:HOLOCHILUS institutioncode:AMNH" ; Times: 1
+	Query: "country:"colombia" specificepithet:longirostris genus:glossophaga" ; Times: 1
+	Query: "catalognumber:233952 institutioncode:AMNH" ; Times: 2
+	Query: ""Herpestes smithii"" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 4
+	Query: "genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:oreopolus genus:Sorex" ; Times: 5
+	Query: "specificepithet:hurrianae genus:Meriones" ; Times: 2
+	Query: "specificepithet:hylophilus genus:Thomasomys" ; Times: 9
+	Query: "specificepithet:pardus genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:MACULATUS institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera institutioncode:AMNH (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "crocuta" ; Times: 3
+	Query: "myrmecophaga" ; Times: 2
+	Query: "Ammospermophilus leucurus county:"San Diego"" ; Times: 1
+	Query: "specificepithet:poensis genus:Paraxerus" ; Times: 2
+	Query: "Cervus unicolor" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "catalognumber:206332" ; Times: 1
+	Query: ""Orthogeomys cherriei" institutioncode:AMNH" ; Times: 1
+	Query: "Neotoma albigula melanura" ; Times: 1
+	Query: "Scutisorex" ; Times: 1
+	Query: "specificepithet:legatus genus:Oryzomys" ; Times: 6
+	Query: "specificepithet:hydrobates genus:Ichthyomys" ; Times: 3
+	Query: "Lontra provocax" ; Times: 2
+	Query: "type:specimen country:"colombia" specificepithet:didactylus genus:cyclopes" ; Times: 1
+	Query: "catalognumber:220015 institutioncode:AMNH" ; Times: 2
+	Query: "catalognumber:214243 institutioncode:AMNH" ; Times: 1
+	Query: "Praomys" ; Times: 1
+	Query: "genus:HOLOCHILUS institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:38694 institutioncode:AMNH" ; Times: 1
+	Query: "crocuta crocuta (zoo)" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 3
+	Query: "ichthyomys" ; Times: 2
+	Query: "Colombia Potos flavus country:"Colombia"" ; Times: 1
+	Query: "specificepithet:severtzovi genus:Allactaga" ; Times: 7
+	Query: ""Archbold Biological Station" type:specimen class:Mammalia" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Colombia Speothos venaticus country:"Colombia"" ; Times: 1
+	Query: "sylvilagus dicei" ; Times: 21
+	Query: "Alouatta seniculus brazil" ; Times: 1
+	Query: "lagidium viscacia" ; Times: 1
+	Query: "rattus sikkimensis" ; Times: 1
+	Query: "genus:hyaena (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "AMNH Callicebus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 2
+	Query: "Mystacina tuberculata" ; Times: 1
+	Query: "specificepithet:gleadowi genus:Gerbillus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 181 (out of 976 download events in this period)
+Total number of records downloaded: 207506 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 116563
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 7
+	Country: Colombia ; Times: 26
+	Country: France ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 94
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 8
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 4
+	Date: 2015-05-09 ; Times: 8
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 10
+	Date: 2015-05-13 ; Times: 17
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 6
+	Date: 2015-05-21 ; Times: 25
+	Date: 2015-05-22 ; Times: 26
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 20
+	Date: 2015-05-26 ; Times: 10
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 5
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Colombia Tremarctos ornatus" ; Times: 1
+	Query: "Colombia Urocyon cinereoargenteus country:"Colombia"" ; Times: 1
+	Query: "peromyscus aztecus" ; Times: 1
+	Query: "Peromyscus keeni" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "stateprovince:"Illinois" genus:Scalopus" ; Times: 1
+	Query: "Colombia Nasuella olivacea country:"Colombia"" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "Leptonycteris yerbabuenae country:"Mexico"" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Colombia puma concolor" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "golunda ellioti" ; Times: 1
+	Query: "Colombia Leopardus tigrinus country:"Colombia"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "underwood institutioncode:amnh" ; Times: 1
+	Query: "cremnomys blanfordi" ; Times: 1
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "country:"Peru" recordedby:Olalla institutioncode:AMNH year >= 1928 year <= 1928" ; Times: 1
+	Query: "Cerdocyon thous country:"Colombia" (Colombia)" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "leopoldamys neilli" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Colombia panthera onca" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Procyon stateprovince:"baja california" country:"mexico"" ; Times: 1
+	Query: "A.C. Buller" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "millardia kathleenae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "rhynchocyon cirnei stuhlmanni" ; Times: 1
+	Query: "Colombia Eira Barbara country:"Colombia"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "Rhynchocyon cirnei" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "Peromyscus levipes" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Colombia Procyon cancrivorus country:"Colombia"" ; Times: 1
+	Query: "Pygoderma year <= 2015" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Peromyscus megalops" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:mammalia (isla OR island)" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "Colombia Conepatus semistriatus country:"Colombia"" ; Times: 1
+	Query: "nyctimene" ; Times: 3
+	Query: "Colombia Leopardus pardalis country:"Colombia"" ; Times: 1
+	Query: "canis latrans stateprovince:"baja california" country:"Mexico"" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:palliata genus:Alouatta" ; Times: 2
+	Query: "peromyscus simulus" ; Times: 1
+	Query: "millardia gleadowi" ; Times: 1
+	Query: "Mazama rufina" ; Times: 1
+	Query: "country:"colombia" specificepithet:longirostris genus:glossophaga" ; Times: 1
+	Query: "peromyscus guatemalensis" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "Peromyscus gratus" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "Erethizontidae" ; Times: 1
+	Query: "type:specimen genus:Proechimys class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "Pecari tajacu ecuador" ; Times: 1
+	Query: "rhogeessa minutilla" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "genus:Bunomys" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Colombia Galictis vittata country:"Colombia"" ; Times: 1
+	Query: "Allyn" ; Times: 1
+	Query: "nana Jamaica" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "catalognumber:115064 institutioncode:AMNH" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Rhynchocyon cirnei year >= 1800 year <= 1934" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "Colombia Lontra longicaudis country:"Colombia"" ; Times: 1
+	Query: "stateprovince:"guarico" country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "fmnh class:mammalia" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "leopoldamys edwardsi" ; Times: 1
+	Query: "Alouatta seniculus venezuela" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "Peromyscus perfulvus" ; Times: 1
+	Query: "Neotoma albigula melanura" ; Times: 1
+	Query: "Lagothrix poeppigii" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "Peromyscus maniculatus bairdii stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "marmosops" ; Times: 1
+	Query: "Colombia Nasua nasua country:"Colombia"" ; Times: 2
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 4
+	Query: "Marmosops tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "marmosops with tissue" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Colombia Potos flavus country:"Colombia"" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "A.W. Anthony institutioncode:AMNH" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Colombia Bassaricyon gabbii country:"Colombia"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Colombia Speothos venaticus country:"Colombia"" ; Times: 1
+	Query: "Alouatta seniculus brazil" ; Times: 1
+	Query: "millardia meltada" ; Times: 1
+	Query: "uroderma bilobatum mappable:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 1
+	Query: "country:"Mexico" specificepithet:geoffroyi genus:Ateles" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "Colombia Mustela frenata country:"Colombia"" ; Times: 1
+	Query: "Peromyscus hylocetes" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "myotis stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "paranyctimene" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: ""lynx rufus" country:"Mexico"" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5647
+Total number of records retrieved from searches: 102072
+Number of download events that retrieved data from the resource: 472
+Total number of records downloaded: 337608
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 6206
+Total number of records retrieved from searches: 108986
+Number of download events that retrieved data from the resource: 1066
+Total number of records downloaded: 738501
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
