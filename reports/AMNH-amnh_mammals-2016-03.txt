@@ -1,0 +1,231 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 172
+Number of records retrieved in searches: 3214
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Russia ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 5
+	Country: Colombia ; Times: 7
+	Country: United States ; Times: 115
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 9
+	Date: 2016-03-11 ; Times: 32
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 19
+	Date: 2016-03-08 ; Times: 15
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 13
+	Date: 2016-03-14 ; Times: 6
+	Date: 2016-03-04 ; Times: 11
+	Date: 2016-03-05 ; Times: 23
+	Date: 2016-03-02 ; Times: 14
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:primates stateprovince:&#34;goias&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "order:primates county:&#34;santa marta&#34; stateprovince:&#34;magdalena&#34; country:&#34;colombia&#34;" ; Times: 2
+	Query: "Thomomys idahoensis usa" ; Times: 1
+	Query: "specificepithet:jamaicensis class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "order:primates county:&#34;totoro&#34; stateprovince:&#34;cauca&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "Crocidura foetida" ; Times: 1
+	Query: "AMNH 38983" ; Times: 1
+	Query: "specificepithet:hirtula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Holochilus locality:Los Sarmientos country:&#34;Argentina&#34;" ; Times: 1
+	Query: "11054" ; Times: 2
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "234977" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Bodley" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Rattus" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "class:mammalia country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "order:primates locality:parintins stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "order:Primates institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Holochilus locality:Yuto country:&#34;Argentina&#34;" ; Times: 1
+	Query: "AMNH 38985" ; Times: 1
+	Query: "specificepithet:adustus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Turure Ward order:primates country:&#34;trinidad&#34;" ; Times: 1
+	Query: "AMNH Mammals M-134059" ; Times: 1
+	Query: "pithecia" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Microgale cowani" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:ichneumon genus:herpestes family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "alouatta fusca" ; Times: 2
+	Query: "genus:Tamias stateprovince:&#34;Baja California&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Oryzorictes hova" ; Times: 1
+	Query: "AMNH Mammals M-134063" ; Times: 1
+	Query: "catalognumber:71328 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH Mammals M-134066" ; Times: 1
+	Query: "specificepithet:aureus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH Mammals M-134069" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:civettictis family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "order:primates stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34;" ; Times: 2
+	Query: "genus:Holochilus locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Diaemus" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "AMNH Mammals M-202681" ; Times: 1
+	Query: "AMNH Mammals M-202680" ; Times: 1
+	Query: "Acerodon leucotis" ; Times: 1
+	Query: "order:primates stateprovince:&#34;Managua&#34; country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "vulpes bengalensis" ; Times: 4
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "leopardus pajeros" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 2
+	Query: "AMNH 55833" ; Times: 1
+	Query: "specificepithet:jacksoni genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:&#34;peru&#34; recordedby:Bodley" ; Times: 1
+	Query: "AMNH Mammals M-134073" ; Times: 1
+	Query: "family:heteromyidae institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:meyeri genus:Lenomys" ; Times: 1
+	Query: "country:&#34;Panama&#34; recordedby:Bodley year &gt;= 1963 year &lt;= 1964" ; Times: 1
+	Query: "catalognumber:14857 institutioncode:AMNH" ; Times: 1
+	Query: "leopardus PAJEROS" ; Times: 1
+	Query: "276604" ; Times: 1
+	Query: "volcan de chiriqui" ; Times: 1
+	Query: "family:nandiniidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:33756 institutioncode:AMNH" ; Times: 1
+	Query: "genus:Holochilus locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "akodon affinis" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "cryptonanus" ; Times: 1
+	Query: "genus:acinonyx family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Chiroptera (America OR Americas) year &gt;= 2010 institutioncode:AMNH" ; Times: 1
+	Query: "lontra canadensis institutioncode:AMNH" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "order:primates stateprovince:&#34;junin&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "order:primates stateprovince:&#34;francisco morazan&#34; country:&#34;honduras&#34;" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "Chodsigoa" ; Times: 1
+	Query: "Crateromys" ; Times: 3
+	Query: "235105" ; Times: 1
+	Query: "235104" ; Times: 1
+	Query: "Ichneumia" ; Times: 2
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Crocidura monticola" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "Gerbillurus setzeri" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "genus:Blarinella country:&#34;China&#34;" ; Times: 8
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;North Dakota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gerbillurus tytonis" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Zenkerella" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vulpes pallida" ; Times: 1
+	Query: "order:primates county:&#34;mamore&#34; stateprovince:&#34;beni&#34; country:&#34;bolivia&#34;" ; Times: 2
+	Query: "order:primates stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "recordedby:Bodley year &gt;= 1963 year &lt;= 1964" ; Times: 2
+	Query: "specificepithet:capensis genus:aonyx family:mustelidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "cynomys parvidens" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "genus:Holochilus stateprovince:&#34;Mato Grosso do Sul&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:felis family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "specificepithet:vestitus genus:Coendou" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "specificepithet:servalina genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "anapolis order:primates stateprovince:&#34;goias&#34; country:&#34;brazil&#34;" ; Times: 2
+	Query: "catalognumber:193823" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 230 download events in this period)
+Total number of records downloaded: 96852
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-08 ; Times: 8
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 11
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "leontopithecus chrysomelas" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
