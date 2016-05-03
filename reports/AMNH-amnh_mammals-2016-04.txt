@@ -1,0 +1,703 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 816
+Number of records retrieved in searches: 10213
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: Canada ; Times: 34
+	Country: Colombia ; Times: 22
+	Country: Portugal ; Times: 145
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 36
+	Country: Poland ; Times: 1
+	Country: Costa Rica ; Times: 10
+	Country: France ; Times: 10
+	Country: United States ; Times: 454
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 12
+	Country: Czech Republic ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 16
+	Date: 2016-04-07 ; Times: 17
+	Date: 2016-04-06 ; Times: 27
+	Date: 2016-04-05 ; Times: 10
+	Date: 2016-04-04 ; Times: 13
+	Date: 2016-04-21 ; Times: 6
+	Date: 2016-04-20 ; Times: 112
+	Date: 2016-04-09 ; Times: 10
+	Date: 2016-04-22 ; Times: 42
+	Date: 2016-04-25 ; Times: 31
+	Date: 2016-04-24 ; Times: 17
+	Date: 2016-04-27 ; Times: 149
+	Date: 2016-04-26 ; Times: 22
+	Date: 2016-04-08 ; Times: 18
+	Date: 2016-04-18 ; Times: 50
+	Date: 2016-04-19 ; Times: 53
+	Date: 2016-04-14 ; Times: 34
+	Date: 2016-04-15 ; Times: 61
+	Date: 2016-04-16 ; Times: 6
+	Date: 2016-04-17 ; Times: 11
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 32
+	Date: 2016-04-12 ; Times: 13
+	Date: 2016-04-13 ; Times: 50
+	Date: 2016-04-29 ; Times: 5
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chihuahua Mountains (Mammalia)" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 5
+	Query: "specificepithet:ichneumon genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH MS-9182" ; Times: 1
+	Query: "AMNH 5576" ; Times: 2
+	Query: "specificepithet:parvula genus:Helogale family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "2748 amnh" ; Times: 1
+	Query: "inia" ; Times: 2
+	Query: "pseudohydromys AMNH" ; Times: 1
+	Query: "specificepithet:sanguinea genus:galerella order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 3
+	Query: "Catagonus wagneri country:&#34;paraguay&#34;" ; Times: 2
+	Query: "AMNH 232170" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "MO-11392 amnh" ; Times: 2
+	Query: "specificepithet:capensis genus:mellivora order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 8
+	Query: "genus:hoplomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "&#34;Carter&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Myotis leibii Ontario 1" ; Times: 1
+	Query: "MO-8209 amnh" ; Times: 2
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1972 year &lt;= 1975" ; Times: 1
+	Query: "euroscaptor" ; Times: 3
+	Query: "specificepithet:leo genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Herpestes (croix)" ; Times: 9
+	Query: "Melomys rubicola AMNH" ; Times: 1
+	Query: "Pogonomys" ; Times: 1
+	Query: "AMNH M 70529" ; Times: 1
+	Query: "stateprovince:&#34;connecticut&#34; (cryptotis parva) institutioncode:AMNH" ; Times: 1
+	Query: "Myotis leibii Ontario" ; Times: 10
+	Query: "lepus californicus bennettii" ; Times: 1
+	Query: "MO-796 amnh" ; Times: 2
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "Coccymys" ; Times: 1
+	Query: "sorex palustris connecticut" ; Times: 1
+	Query: "MO-11388 amnh" ; Times: 2
+	Query: "MO-7309 amnh" ; Times: 2
+	Query: "catalognumber:140798 institutioncode:AMNH" ; Times: 1
+	Query: "Callithricidae" ; Times: 1
+	Query: "Hapalomys" ; Times: 1
+	Query: "specificepithet:JUBATUS genus:ACINONYX family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "AMNH 71359" ; Times: 1
+	Query: "MO-8510 amnh" ; Times: 2
+	Query: "AMNH 94866" ; Times: 1
+	Query: "AMNH M 71360" ; Times: 1
+	Query: "chaetomys" ; Times: 4
+	Query: "specificepithet:sumichrasti genus:reithrodontomys order:rodentia country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "AMNH 257996" ; Times: 6
+	Query: "MO-1731 amnh" ; Times: 2
+	Query: "genus:FELIS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "170562" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "M. McLeod" ; Times: 1
+	Query: "Melomys frigicola AMNH" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;kenya&#34;" ; Times: 1
+	Query: "MacFarlane year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "MO-799 amnh" ; Times: 2
+	Query: "Spilogale AND Island" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States&#34; (Leavitt)" ; Times: 1
+	Query: "pseudomys occidentalis" ; Times: 1
+	Query: "AMNH 19879" ; Times: 2
+	Query: "170933" ; Times: 1
+	Query: "lynx pardinus" ; Times: 5
+	Query: "MacFarlane year &gt;= 1860 year &lt;= 1865" ; Times: 1
+	Query: "AMNH 204109" ; Times: 1
+	Query: "Carpomys melanurus" ; Times: 1
+	Query: "MO-9093 amnh" ; Times: 2
+	Query: "Micromys minutus" ; Times: 2
+	Query: "MS-9880 amnh" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "AMNH 172545" ; Times: 1
+	Query: "AMNH 172546" ; Times: 1
+	Query: "MO-1723 amnh" ; Times: 2
+	Query: "Melomys arcium AMNH" ; Times: 1
+	Query: "MO-7486 amnh" ; Times: 2
+	Query: "white tailed deer usa" ; Times: 1
+	Query: "Rowley Jr." ; Times: 1
+	Query: "crocidura fuliginosa" ; Times: 1
+	Query: "Pogonomelomys" ; Times: 1
+	Query: "Sorex merriami New Mexico" ; Times: 1
+	Query: "Aotus azarae" ; Times: 5
+	Query: "AMNH 204110" ; Times: 1
+	Query: "Kapustin" ; Times: 2
+	Query: "capromys" ; Times: 2
+	Query: "Panthera Leo sex:male institutioncode:AMNH" ; Times: 1
+	Query: "amnh 158971" ; Times: 2
+	Query: "amnh 158970" ; Times: 2
+	Query: "amnh 158973" ; Times: 2
+	Query: "amnh 158972" ; Times: 2
+	Query: "specificepithet:MACULATA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 3
+	Query: "AMNH 234796" ; Times: 1
+	Query: "Melomys steini AMNH" ; Times: 1
+	Query: "&#34;Garnet&#34; institutioncode:AMNH" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "Chiricahua Mountains (Mammalia Carnivora )" ; Times: 1
+	Query: "promops centralis" ; Times: 4
+	Query: "Myotis lucifugus Ontario 1" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 8
+	Query: "26214" ; Times: 1
+	Query: "Abeomelomys" ; Times: 1
+	Query: "amnh 257941" ; Times: 1
+	Query: "amnh 257942" ; Times: 1
+	Query: "amnh 257943" ; Times: 2
+	Query: "amnh 257944" ; Times: 1
+	Query: "amnh 257945" ; Times: 1
+	Query: "amnh 257946" ; Times: 2
+	Query: "amnh 257947" ; Times: 1
+	Query: "amnh 257948" ; Times: 4
+	Query: "specificepithet:jacksoni genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Microhydromys" ; Times: 1
+	Query: "MO-800 amnh" ; Times: 2
+	Query: "MO-8512 amnh" ; Times: 2
+	Query: "amnh 158969" ; Times: 2
+	Query: "galemys" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "Melomys capensis AMNH" ; Times: 1
+	Query: "	Oxymycterus inca	 100" ; Times: 1
+	Query: "MO-3353 amnh" ; Times: 2
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1976 year &lt;= 1978" ; Times: 1
+	Query: "recordedby:thoresen" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 1
+	Query: "amnh 264658" ; Times: 1
+	Query: "MO-11387 amnh" ; Times: 2
+	Query: "222388" ; Times: 1
+	Query: "Melomys levipes AMNH" ; Times: 1
+	Query: "catalognumber:10781 institutioncode:AMNH" ; Times: 2
+	Query: "Panthera Leo institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 257942" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "AMNH Mammals Madagascar" ; Times: 1
+	Query: "Hyomys" ; Times: 3
+	Query: "rhogeessa gracilis" ; Times: 2
+	Query: "blarinella griselda" ; Times: 1
+	Query: "AMNH 172551" ; Times: 1
+	Query: "amnh 32163" ; Times: 1
+	Query: "type:specimen (alouatta)" ; Times: 3
+	Query: "Melomys lutillus AMNH" ; Times: 1
+	Query: "Trichechus country:&#34;Honduras&#34;" ; Times: 6
+	Query: "MO-795 amnh" ; Times: 2
+	Query: "63498" ; Times: 1
+	Query: "jwp jenks" ; Times: 2
+	Query: "specificepithet:alfari genus:sigmodontomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "218427" ; Times: 1
+	Query: "11650 mammal" ; Times: 2
+	Query: "MO-3351 amnh" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "stateprovince:&#34;boyaca&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus rhode island" ; Times: 1
+	Query: "heteromys anomalus" ; Times: 1
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "chiroptera and maine" ; Times: 1
+	Query: "AMNH 43439" ; Times: 1
+	Query: "zyzomys (skeleton)" ; Times: 2
+	Query: "pseudomys AMNH" ; Times: 5
+	Query: "Herpestes" ; Times: 3
+	Query: "dipodomys merriami tucson gardner" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "MO-1725 amnh" ; Times: 2
+	Query: "MO-8206 amnh" ; Times: 2
+	Query: "surifer" ; Times: 1
+	Query: "AMNH 71019" ; Times: 1
+	Query: "amnh 192626" ; Times: 1
+	Query: "Huri" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "MO-8210 amnh" ; Times: 4
+	Query: "135680" ; Times: 1
+	Query: "Estancia San Jose" ; Times: 1
+	Query: "Equus AND Island" ; Times: 1
+	Query: "MO-1469 amnh" ; Times: 2
+	Query: "Myotis lucifugus ONTARIO 1" ; Times: 2
+	Query: "108467" ; Times: 1
+	Query: "	Callicebus cupreus	 100" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 1
+	Query: "specificepithet:talamancae order:rodentia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "MO-8514 amnh" ; Times: 2
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "Ha Tinh Huong Son" ; Times: 1
+	Query: "129686" ; Times: 1
+	Query: "Mustela frenata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "neotomys ebriosus" ; Times: 1
+	Query: "184396" ; Times: 1
+	Query: "M. Daily" ; Times: 1
+	Query: "family:manidae tissue:1" ; Times: 1
+	Query: "catalognumber:186930" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "AMNH 251996" ; Times: 1
+	Query: "Melomys burtoni AMNH" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "genus:dasyprocta country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Herpestes country:&#34;Trinidad&#34;" ; Times: 3
+	Query: "161142" ; Times: 1
+	Query: "specificepithet:silvestris genus:felis family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH 106430" ; Times: 1
+	Query: "Galictis vittata" ; Times: 5
+	Query: "MO-7312 amnh" ; Times: 2
+	Query: "MO-8205 amnh" ; Times: 2
+	Query: "192626" ; Times: 1
+	Query: "AMNH-M-214612" ; Times: 1
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "Melomys frigicola" ; Times: 1
+	Query: "MO-8513 amnh" ; Times: 2
+	Query: "Melomys rubicola" ; Times: 1
+	Query: "type:specimen genus:Prionodon order:Carnivora" ; Times: 2
+	Query: "158056" ; Times: 1
+	Query: "amnh 251944" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Hydromys new britain" ; Times: 1
+	Query: "AMNH 192504" ; Times: 1
+	Query: "skel family:echimyidae" ; Times: 1
+	Query: "specificepithet:ichneumon genus:Herpestes family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "MO-8202 amnh" ; Times: 2
+	Query: "microtus pennsylvanicus tennessee" ; Times: 1
+	Query: "Myotis leibii ONTARIO 1" ; Times: 2
+	Query: "MO-11394 amnh" ; Times: 2
+	Query: "AMNH 84309" ; Times: 2
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; (Maria)" ; Times: 1
+	Query: "751 institutioncode:AMNH" ; Times: 1
+	Query: "paracrocidura" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "griselda" ; Times: 1
+	Query: "family:rhinocerotidae tissue:1" ; Times: 1
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:sanguinea genus:Galerella family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "microsciurus" ; Times: 1
+	Query: "specificepithet:cavator country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "Panthera Leo sex:unknown institutioncode:AMNH" ; Times: 1
+	Query: "	Akodon aerosus	 100" ; Times: 1
+	Query: "MO-1729 amnh" ; Times: 2
+	Query: "distance(location,geopoint(21.099036,-109.957516))&lt;15000" ; Times: 3
+	Query: "amnh 158966" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-109.957516))&lt;15000" ; Times: 1
+	Query: "amnh 268758" ; Times: 3
+	Query: "AMNH 112249" ; Times: 1
+	Query: "amnh 158963" ; Times: 3
+	Query: "hydrobates" ; Times: 1
+	Query: "Anisomys" ; Times: 3
+	Query: "sciurus rancho grande" ; Times: 1
+	Query: "specificepithet:lybica genus:felis family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "156622" ; Times: 1
+	Query: "AMNH M-140056" ; Times: 1
+	Query: "AMNH 124588" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "STREATOR AND ISLAND" ; Times: 1
+	Query: "MO-3352 amnh" ; Times: 2
+	Query: "Bison bonasus" ; Times: 1
+	Query: "MO-798 amnh" ; Times: 2
+	Query: "macruromys" ; Times: 2
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "specificepithet:JACKSONI genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "MO-8201 amnh" ; Times: 2
+	Query: "175440" ; Times: 1
+	Query: "AMNH 191441" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "AMNH 75587" ; Times: 1
+	Query: "Nectomys magdalenae" ; Times: 3
+	Query: "type:specimen specificepithet:hudsonius genus:zapus institutioncode:AMNH" ; Times: 1
+	Query: "Xenuromys" ; Times: 1
+	Query: "MO-8200 amnh" ; Times: 2
+	Query: "28423" ; Times: 1
+	Query: "tamiasciurus hudsonicus amnh" ; Times: 1
+	Query: "Uromys AMNH" ; Times: 6
+	Query: "AMNH 257943" ; Times: 1
+	Query: "specificepithet:couesi genus:oryzomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "country:&#34;paraguay&#34; (Wetzel)" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "MO-11267 amnh" ; Times: 2
+	Query: "catalognumber:186903" ; Times: 1
+	Query: "AMNH 211959" ; Times: 1
+	Query: "AMNH 211958" ; Times: 1
+	Query: "Melomys AMNH" ; Times: 1
+	Query: "uropsilus" ; Times: 2
+	Query: "genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "parahydromys" ; Times: 1
+	Query: "amnh 126171" ; Times: 2
+	Query: "&#34;Cherrie&#34; institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:aureus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 2
+	Query: "SAN MIGUEL ISLAND AND MAMMALS AND 1900" ; Times: 1
+	Query: "Equatorial Guinea class:Mammalia" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "M-15526 amnh" ; Times: 1
+	Query: "peromyscus hylocetes" ; Times: 1
+	Query: "stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 4
+	Query: "specificepithet:brevicauda genus:zygodontomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "trichechus country:&#34;Honduras&#34;" ; Times: 12
+	Query: "MO-7313 amnh" ; Times: 2
+	Query: "MO-8204 amnh" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:maculata genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Paraleptomys" ; Times: 2
+	Query: "petrodromus tetradactylus type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:LEO genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "Conilurus penicillatus" ; Times: 1
+	Query: "Melomys aerosus" ; Times: 1
+	Query: "AMNH 257941" ; Times: 1
+	Query: "MO-11390 amnh" ; Times: 2
+	Query: "AMNH M-273130" ; Times: 2
+	Query: "AMNH 257944" ; Times: 1
+	Query: "AMNH 257945" ; Times: 1
+	Query: "AMNH 257946" ; Times: 1
+	Query: "AMNH 257947" ; Times: 1
+	Query: "AMNH 257948" ; Times: 1
+	Query: "AMNH 122498" ; Times: 2
+	Query: "M-12203 amnh" ; Times: 2
+	Query: "MS-2284 amnh" ; Times: 2
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "specificepithet:GENETTA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Crossomys" ; Times: 1
+	Query: "MO-8516 amnh" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Zyzomys pedunculatus" ; Times: 1
+	Query: "amnh 257937" ; Times: 1
+	Query: "MO-2024 amnh" ; Times: 2
+	Query: "amnh 257939" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "258317 amnh tamiasciurus" ; Times: 1
+	Query: "Myotis lucifugus Ontario" ; Times: 10
+	Query: "Melomys lorentzii AMNH" ; Times: 1
+	Query: "Leporillus" ; Times: 1
+	Query: "Ursus americanus eremicus" ; Times: 1
+	Query: "lorentzimys" ; Times: 2
+	Query: "puma concolor type:specimen (santa cruz)" ; Times: 1
+	Query: "AMNH 21350" ; Times: 3
+	Query: "MO-2009 amnh" ; Times: 2
+	Query: "MO-7308 amnh" ; Times: 2
+	Query: "AMNH 131165" ; Times: 1
+	Query: "specificepithet:SILVESTRIS genus:FELIS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Anomalurus beecrofti" ; Times: 1
+	Query: "genus:civettictis order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "AMNH 77557" ; Times: 3
+	Query: "genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "specificepithet:SERVAL genus:LEPTAILURUS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 6
+	Query: "specificepithet:sanguineus genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34; institutioncode:AMNH" ; Times: 1
+	Query: "MO-7310 amnh" ; Times: 2
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "pantera" ; Times: 1
+	Query: "inia boliviensis" ; Times: 1
+	Query: "Chiruromys (fluid)" ; Times: 2
+	Query: "Inia" ; Times: 1
+	Query: "MO-11391 amnh" ; Times: 2
+	Query: "specificepithet:ocularis genus:Graphiurus" ; Times: 1
+	Query: "Melomys rufescens AMNH" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "noctilio paraguay" ; Times: 2
+	Query: "specificepithet:hirtula genus:Helogale family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "promops+centralis" ; Times: 1
+	Query: "Uromys neobritanicus" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "Spilogale AND Island NOT Oak NOT FLorida NOT Washington" ; Times: 1
+	Query: "zyzomys (fluid)" ; Times: 2
+	Query: "AMNH 13898" ; Times: 1
+	Query: "AMNH Ursus" ; Times: 2
+	Query: "AMNH 106558" ; Times: 1
+	Query: "desmana" ; Times: 2
+	Query: "Bioko Island class:Mammalia" ; Times: 2
+	Query: "genus:proechimys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "eumops hansae" ; Times: 2
+	Query: "ammotragus" ; Times: 2
+	Query: "AMNH 251944" ; Times: 2
+	Query: "Spilogale AND Island NOT Oak" ; Times: 1
+	Query: "San Miguel Island AND 1900" ; Times: 1
+	Query: "MS-4321 amnh" ; Times: 2
+	Query: "AMNH 90762" ; Times: 1
+	Query: "AMNH 90761" ; Times: 1
+	Query: "Melomys aerosus AMNH" ; Times: 1
+	Query: "amnh R-32163" ; Times: 2
+	Query: "genus:ichneumia order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:atilax order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "amnh 257996" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "MO-8509 amnh" ; Times: 2
+	Query: "AMNH 110056" ; Times: 4
+	Query: "order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:mungo genus:mungos order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "&#34;T.D. Carter&#34; institutioncode:AMNH" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "nectogale" ; Times: 1
+	Query: "amnh 204109" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 3
+	Query: "distance(location,geopoint(21.099036,-109.787516))&lt;15000" ; Times: 3
+	Query: "MO-2023 amnh" ; Times: 2
+	Query: "MO-8515 amnh" ; Times: 2
+	Query: "MO-797 amnh" ; Times: 2
+	Query: "AMNH 251946" ; Times: 1
+	Query: "Melomys leucogaster AMNH" ; Times: 1
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "58425" ; Times: 1
+	Query: "MO-1728 amnh" ; Times: 2
+	Query: "35651" ; Times: 1
+	Query: "MO-1716 amnh" ; Times: 2
+	Query: "amnh 158964" ; Times: 2
+	Query: "MO-11393 amnh" ; Times: 2
+	Query: "amnh 158965" ; Times: 1
+	Query: "amnh 158962" ; Times: 5
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Erethizon dorsatum cousei" ; Times: 1
+	Query: "scaptochirus" ; Times: 2
+	Query: "46748" ; Times: 1
+	Query: "Townsend AND Santa Cruz Island" ; Times: 1
+	Query: "lophiomys" ; Times: 1
+	Query: "guanaco" ; Times: 5
+	Query: "genus:mellivora order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "258425" ; Times: 2
+	Query: "MO-8511 amnh" ; Times: 2
+	Query: "MO-7311 amnh" ; Times: 2
+	Query: "specificepithet:serval genus:leptailurus family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Mus cervicolor" ; Times: 1
+	Query: "Rattus norvegicus new york" ; Times: 1
+	Query: "MO-3350 amnh" ; Times: 2
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "AMNH 122391" ; Times: 1
+	Query: "Onychomys torridus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "aguti" ; Times: 2
+	Query: "AMNH 158965" ; Times: 1
+	Query: "specificepithet:civetta genus:civettictis order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 4
+	Query: "country:&#34;guatemala&#34; recordedby:booth year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "MO-4383 amnh" ; Times: 4
+	Query: "Notomys AMNH" ; Times: 1
+	Query: "AMNH 103433" ; Times: 1
+	Query: "Panthera Leo sex:female institutioncode:AMNH" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "AMNH 63458" ; Times: 1
+	Query: "	Akodon mimus	 100" ; Times: 1
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "family:molossidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mephitis macroura" ; Times: 3
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH M-144176" ; Times: 1
+	Query: "MO-1730 amnh" ; Times: 2
+	Query: "amnh 71079" ; Times: 1
+	Query: "specificepithet:CIVETTA genus:CIVETTICTIS family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "genus:Lenomys" ; Times: 2
+	Query: "transitionalis" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "179836" ; Times: 1
+	Query: "Nigeria class:Mammalia" ; Times: 1
+	Query: "Conilurus AMNH" ; Times: 2
+	Query: "heteromys australis" ; Times: 2
+	Query: "87674" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 3
+	Query: "AMNH M 70596" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "MO-8207 amnh" ; Times: 2
+	Query: "specificepithet:crocuta genus:crocuta order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 3
+	Query: "amnh 204110" ; Times: 1
+	Query: "Pseudohydromys" ; Times: 2
+	Query: "MO-9734 amnh" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-109.957516))&lt;15000" ; Times: 2
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "165880" ; Times: 1
+	Query: "AMNH 87584" ; Times: 2
+	Query: "chiruromys" ; Times: 4
+	Query: "specificepithet:hyaena genus:hyaena order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "genus:nandinia order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH 139945" ; Times: 1
+	Query: "Solomys" ; Times: 1
+	Query: "specificepithet:adustus genus:canis order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH 96616" ; Times: 1
+	Query: "specificepithet:striatus genus:ictonyx order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "103433" ; Times: 2
+	Query: "amnh 369" ; Times: 1
+	Query: "AMNH 139223" ; Times: 2
+	Query: "catalognumber:10141 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:adustus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "petrodromus tetradactylus institutioncode:AMNH" ; Times: 1
+	Query: "MO-8208 amnh" ; Times: 2
+	Query: "genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH 172548" ; Times: 1
+	Query: "MO-11389 amnh" ; Times: 2
+	Query: "MO-7493 amnh" ; Times: 2
+	Query: "MO-8203 amnh" ; Times: 2
+	Query: "AMNH 257937" ; Times: 1
+	Query: "AMNH 257939" ; Times: 1
+	Query: "Leptomys" ; Times: 1
+	Query: "specificepithet:SERVALINA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Mallomys" ; Times: 2
+	Query: "amnh 71359" ; Times: 2
+	Query: "MO-1727 amnh" ; Times: 2
+	Query: "Lorentzimys" ; Times: 3
+	Query: "Lasiurus blossevillii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 223 (out of 1312 download events in this period)
+Total number of records downloaded: 169499
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 63
+	Country: Unknown ; Times: 22
+	Country: France ; Times: 1
+	Country: United States ; Times: 115
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-06 ; Times: 18
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 17
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-22 ; Times: 9
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-08 ; Times: 9
+	Date: 2016-04-27 ; Times: 12
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-14 ; Times: 16
+	Date: 2016-04-15 ; Times: 12
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "mammals coahuila" ; Times: 4
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 2
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "lynx pardinus" ; Times: 5
+	Query: "inia boliviensis" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "petrodromus tetradactylus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Anomalurus beecrofti" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "lepus californicus bennettii" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus institutioncode:AMNH" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "chaetomys" ; Times: 1
+	Query: "mammals in san luis potosi" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+
+End of report.
