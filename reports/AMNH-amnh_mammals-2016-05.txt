@@ -1,0 +1,276 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 2957
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Colombia ; Times: 33
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 4
+	Country: Costa Rica ; Times: 10
+	Country: France ; Times: 7
+	Country: United States ; Times: 91
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 18
+	Country: Chile ; Times: 2
+	Country: Denmark ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 9
+	Date: 2016-05-18 ; Times: 9
+	Date: 2016-05-17 ; Times: 6
+	Date: 2016-05-16 ; Times: 6
+	Date: 2016-05-15 ; Times: 13
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 7
+	Date: 2016-05-31 ; Times: 48
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 6
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 8
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 26
+	Date: 2016-05-26 ; Times: 3
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 11
+	Date: 2016-05-25 ; Times: 7
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 7
+	Date: 2016-05-21 ; Times: 8
+	Date: 2016-05-28 ; Times: 7
+	Date: 2016-05-29 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 13
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "AMNH 5576" ; Times: 1
+	Query: "Marmota sibirica" ; Times: 3
+	Query: "AMNH 160152" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Sundasciurus samarensis" ; Times: 2
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:Tamias institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 73716" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "soka bali" ; Times: 2
+	Query: "oryctolagus massachusetts" ; Times: 1
+	Query: "AMNH 23223" ; Times: 2
+	Query: "Micoureus demerarae" ; Times: 8
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "petaurista philippensis" ; Times: 1
+	Query: "Danta" ; Times: 1
+	Query: "275548" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "AMNH 66170" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Helogale Tanzania" ; Times: 1
+	Query: "cryptotis new york" ; Times: 5
+	Query: "133942" ; Times: 1
+	Query: "AMNH 129080" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "AMNH 43439" ; Times: 1
+	Query: "mammals type:specimen stateprovince:&#34;Guaviare&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "meles meles" ; Times: 4
+	Query: "aeretes" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Martes melampus" ; Times: 2
+	Query: "Cebus imitator Panama" ; Times: 1
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "Mammalia and Brazil type:specimen hastypestatus:1" ; Times: 1
+	Query: "syntheosciurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "locality:Twin Oaks county:&#34;San Diego&#34;" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "AMNH 1282" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34;" ; Times: 2
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "genus:hoplomys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "coendou vestitus" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "AMNH 63458" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "catalognumber:199498" ; Times: 1
+	Query: "catalognumber:199499" ; Times: 1
+	Query: "catalognumber:199497" ; Times: 1
+	Query: "Canis Latrans type:specimen year &gt;= 1670 year &lt;= 1900" ; Times: 1
+	Query: "21330 stateprovince:&#34;Merida&#34; country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Ondatra zibethicus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:senex genus:Tamias institutioncode:AMNH" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "petaurista" ; Times: 2
+	Query: "lontra longicaudis annectens" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:granatensis genus:sciurus order:rodentia country:&#34;costa rica&#34;" ; Times: 2
+	Query: "bailey twin oaks" ; Times: 1
+	Query: "AMNH M 262274" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "Lenothrix" ; Times: 1
+	Query: "nesoryzomys indefessus" ; Times: 1
+	Query: "carollia sowelli" ; Times: 6
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "AMNH 266565" ; Times: 1
+	Query: "187364" ; Times: 1
+	Query: "AMNH 172546" ; Times: 1
+	Query: "Madoqua voi" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "21330 country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "specificepithet:gracilis genus:reithrodontomys country:&#34;costa rica&#34;" ; Times: 2
+	Query: "64234" ; Times: 1
+	Query: "Saguinus martinsi" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:booth year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "genus:proechimys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "pteropus tokudae institutioncode:AMNH" ; Times: 1
+	Query: "tamaulipas cueva" ; Times: 1
+	Query: "catalognumber:199500" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34; OR &#34;Suriname&#34;" ; Times: 2
+	Query: "AMNH 87584" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "specificepithet:brevirostris genus:reithrodontomys country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Tylomys mirae" ; Times: 2
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "specificepithet:merriami genus:Tamias institutioncode:AMNH" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "Heterohyrax brucei hindei" ; Times: 1
+	Query: "Abrocoma cinerea" ; Times: 1
+	Query: "Helogale Kenya vetula" ; Times: 1
+	Query: "AMNH 112249" ; Times: 1
+	Query: "Marmota bobak" ; Times: 1
+	Query: "Speothos venaticus (Colombia)" ; Times: 1
+	Query: "Graphiurus kelleni" ; Times: 1
+	Query: "Heterohyrax brucei Kenya" ; Times: 1
+	Query: "lontra longicaudis annectens mexico" ; Times: 3
+	Query: "genus:ototylomys country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "chiroptera miquihuana" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Tamias institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 154294" ; Times: 1
+	Query: "catalognumber:199501" ; Times: 1
+	Query: "catalognumber:199502" ; Times: 1
+	Query: "alces americanus" ; Times: 1
+	Query: "Cebus Panama" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "microsciurus" ; Times: 2
+	Query: "Marmota camtschatica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 327 download events in this period)
+Total number of records downloaded: 79890
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 35
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "bailey twin oaks" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "Speothos venaticus (Colombia)" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "type:specimen preparations:fluid institutioncode:AMNH" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Antrozous county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
