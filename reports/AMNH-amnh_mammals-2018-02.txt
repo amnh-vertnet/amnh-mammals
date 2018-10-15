@@ -1,0 +1,1444 @@
+Report for Institution Code AMNH, Resource amnh_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1919
+Number of records retrieved in searches: 14277
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 64
+	Country: Canada ; Times: 31
+	Country: Madagascar ; Times: 1
+	Country: Unknown ; Times: 40
+	Country: Costa Rica ; Times: 7
+	Country: France ; Times: 43
+	Country: Peru ; Times: 8
+	Country: Bolivia ; Times: 3
+	Country: Israel ; Times: 7
+	Country: Australia ; Times: 16
+	Country: Czechia ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Dominican Republic ; Times: 6
+	Country: Denmark ; Times: 834
+	Country: Finland ; Times: 6
+	Country: United States ; Times: 735
+	Country: Vietnam ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 39
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 20
+	Country: Colombia ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 33
+	Date: 2018-02-08 ; Times: 22
+	Date: 2018-02-03 ; Times: 253
+	Date: 2018-02-02 ; Times: 84
+	Date: 2018-02-01 ; Times: 165
+	Date: 2018-02-07 ; Times: 22
+	Date: 2018-02-06 ; Times: 58
+	Date: 2018-02-05 ; Times: 38
+	Date: 2018-02-04 ; Times: 530
+	Date: 2018-02-21 ; Times: 26
+	Date: 2018-02-20 ; Times: 40
+	Date: 2018-02-23 ; Times: 37
+	Date: 2018-02-22 ; Times: 26
+	Date: 2018-02-25 ; Times: 31
+	Date: 2018-02-24 ; Times: 12
+	Date: 2018-02-27 ; Times: 48
+	Date: 2018-02-26 ; Times: 18
+	Date: 2018-02-28 ; Times: 32
+	Date: 2018-02-14 ; Times: 14
+	Date: 2018-02-15 ; Times: 21
+	Date: 2018-02-16 ; Times: 205
+	Date: 2018-02-17 ; Times: 11
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 7
+	Date: 2018-02-12 ; Times: 67
+	Date: 2018-02-13 ; Times: 38
+	Date: 2018-02-18 ; Times: 15
+	Date: 2018-02-19 ; Times: 64
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thous genus:Cerdocyon institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-140241&#34;" ; Times: 2
+	Query: "Pudu puda" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-100349&#34;" ; Times: 2
+	Query: "dermoptera order:dermoptera mappable:1" ; Times: 1
+	Query: "catalognumber:20110 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Rattus pelurus " ; Times: 1
+	Query: "lophostoma carrikeri" ; Times: 17
+	Query: "Miniopterus robustior " ; Times: 1
+	Query: "Rattus xanthurus " ; Times: 1
+	Query: "specificepithet:auripendulus genus:Eumops country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "order:Artiodactyla recordedby:Roosevelt institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 272867" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-246135&#34;" ; Times: 4
+	Query: "catalognumber:135511 institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51869&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19799&#34;" ; Times: 2
+	Query: "catalognumber:243156" ; Times: 2
+	Query: "cephalophus leucogaster" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90091&#34;" ; Times: 2
+	Query: "locality:Matto Folhades institutioncode:AMNH" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 5
+	Query: "Cebus versicolor " ; Times: 1
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "recordedby:audubon year &gt;= 1785 year &lt;= 1851" ; Times: 1
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32727&#34;" ; Times: 2
+	Query: "Tragelaphus scriptus" ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-187&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-217684&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-244439&#34;" ; Times: 4
+	Query: "specificepithet:spalacinus genus:tachyoryctes country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16714&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90367&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-20883&#34;" ; Times: 4
+	Query: "Hoolock leuconedys " ; Times: 1
+	Query: "neofelis" ; Times: 3
+	Query: "stateprovince:&#34;Para&#34; country:&#34;Brazil&#34; institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Primates locality:cuyaba institutioncode:AMNH" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 7
+	Query: "Cervus nippon" ; Times: 22
+	Query: "specificepithet:flavus genus:Perognathus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Genetta genetta mappable:1" ; Times: 1
+	Query: "specificepithet:redmani genus:Monophyllus hastissue:1" ; Times: 1
+	Query: "Crocidura wuchihensis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-89057&#34;" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;presidio&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:fimbriatus genus:Artibeus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-80198&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:gymnocercus genus:Lycalopex" ; Times: 3
+	Query: "vntype:specimen specificepithet:procyonoides genus:Nyctereutes institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-52094&#34;" ; Times: 2
+	Query: "Steatomys opimus " ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Tetracerus quadricornis" ; Times: 1
+	Query: "specificepithet:lilium genus:Sturnira country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Myzopoda schliemanni " ; Times: 1
+	Query: "Nyctinomops laticaudatus panama" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32730&#34;" ; Times: 2
+	Query: "Saguinus oedipus" ; Times: 2
+	Query: "Eliurus grandidieri " ; Times: 1
+	Query: "daubentonia" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-6368&#34;" ; Times: 4
+	Query: "224721" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32729&#34;" ; Times: 2
+	Query: "specificepithet:planirostris genus:Cynomops country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 3
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "Phoenix Zoo" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54451&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-113819&#34;" ; Times: 2
+	Query: "Thomasomys bombycinus " ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Vermont&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Equus quagga" ; Times: 4
+	Query: "Myotis findleyi " ; Times: 1
+	Query: "order:Perissodactyla recordedby:Roosevelt institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39081&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:87624 institutioncode:AMNH" ; Times: 2
+	Query: "Neonycteris pusilla " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-244989&#34;" ; Times: 4
+	Query: "genus:cryptotis stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:furinalis genus:Eptesicus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Ochotona gloveri " ; Times: 1
+	Query: "Ochotona coreana " ; Times: 1
+	Query: "Rattus arrogans " ; Times: 1
+	Query: "eumops nanus" ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14108&#34;" ; Times: 4
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-35591&#34;" ; Times: 4
+	Query: "specificepithet:hastatus genus:Phyllostomus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173582&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39088&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204055&#34;" ; Times: 4
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "scientificname:&#34;pithecia hirsuta&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51942&#34;" ; Times: 2
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "catalognumber:150067 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51934&#34;" ; Times: 2
+	Query: "Tarsius pumilus " ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "B-1357" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-150444&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-200745&#34;" ; Times: 4
+	Query: "specificepithet:maritimus genus:ursus institutioncode:AMNH" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-42496&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive) institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:tragocamelus genus:Boselaphus preparations:Skull" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 2
+	Query: "family:felidae order:Carnivora class:mammalia stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:78026 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus class:Mammalia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "Alces alces andersoni" ; Times: 3
+	Query: "174405" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:temminckii genus:manis (skull)" ; Times: 2
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "Macaca hecki " ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "Damaliscus korrigum" ; Times: 4
+	Query: "Monodon monoceros mappable:1" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "genus:Mus country:&#34;Algeria&#34;" ; Times: 1
+	Query: "Uromys boeadii " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-98152&#34;" ; Times: 2
+	Query: "specificepithet:sejugis genus:Peromyscus" ; Times: 1
+	Query: "vntype:specimen genus:gorilla preparations:skeleton" ; Times: 1
+	Query: "Pogonomelomys bruijnii " ; Times: 1
+	Query: "Tragelaphus oryx" ; Times: 2
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "specificepithet:flavus genus:perognathus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:Phyllostomus institutioncode:AMNH" ; Times: 1
+	Query: "Chodsigoa caovansunga " ; Times: 1
+	Query: "specificepithet:gambianus genus:Cricetomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:obscurus genus:Artibeus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14446&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268395&#34;" ; Times: 2
+	Query: "Dendromus vernayi " ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "arctictis" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90089&#34;" ; Times: 2
+	Query: "family:Bovidae institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-257096&#34;" ; Times: 2
+	Query: "AMNH 274263" ; Times: 1
+	Query: "proechimys brevicauda" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-55830&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-40079&#34;" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204144&#34;" ; Times: 4
+	Query: "Callosciurus melanogaster " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-244438&#34;" ; Times: 4
+	Query: "DERMOPTERA mappable:1" ; Times: 3
+	Query: "colomys" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; recordedby:*weber*" ; Times: 1
+	Query: "Lepilemur edwardsi " ; Times: 1
+	Query: "Rattus pococki " ; Times: 1
+	Query: "specificepithet:brevicauda genus:Carollia country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-244489&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-17603&#34;" ; Times: 2
+	Query: "Aotus azarae" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-80277&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-69400&#34;" ; Times: 2
+	Query: "Apomys abrae " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54345&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-100280&#34;" ; Times: 4
+	Query: "specificepithet:audax genus:tachyoryctes country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-4252&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-80599&#34;" ; Times: 2
+	Query: "Sylvisorex oriundus " ; Times: 1
+	Query: "family:Mustelidae county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:spalacinus genus:tachyoryctes country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:angasii genus:Tragelaphus preparations:Skull" ; Times: 1
+	Query: "catalognumber:235152 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16711&#34;" ; Times: 2
+	Query: "Tupaia javanica " ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-129376&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-119674&#34;" ; Times: 4
+	Query: "Bradypus tridactylus" ; Times: 6
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-35070&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-129373&#34;" ; Times: 2
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "Paradipus ctenodactylus " ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "catalognumber:136421 institutioncode:AMNH" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32731&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21834&#34;" ; Times: 2
+	Query: "Nesolagus" ; Times: 1
+	Query: "specificepithet:sauveli genus:bos" ; Times: 2
+	Query: "amnh 257942" ; Times: 1
+	Query: "Eothenomys olitor " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-113751&#34;" ; Times: 6
+	Query: "genus:Potamogale" ; Times: 1
+	Query: "Alouatta discolor " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-75334&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-119480&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19800&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-200291&#34;" ; Times: 4
+	Query: "Rattus lugens " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90102&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268393&#34;" ; Times: 2
+	Query: "Pteropus ualanus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-88402&#34;" ; Times: 2
+	Query: "Rubrisciurus rubriventer " ; Times: 1
+	Query: "Presbytis potenziani " ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "hylobates lar" ; Times: 1
+	Query: "Petinomys fuscocapillus " ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "Crossarchus platycephalus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32736&#34;" ; Times: 2
+	Query: "Monachus tropicalis vntype:specimen" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-217167&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:blarina county:&#34;lee&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Bubalus quarlesi " ; Times: 1
+	Query: "macaca mulatta" ; Times: 3
+	Query: "genus:martes preparations:skeleton institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39084&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos (zoo OR captive) institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "specificepithet:scriptus genus:Tragelaphus preparations:Skull" ; Times: 3
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173584&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-88405&#34;" ; Times: 2
+	Query: "genus:Perognathus county:&#34;apache&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Lonchorhina fernandezi " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-22900&#34;" ; Times: 2
+	Query: "Echiothrix centrosa " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-10055&#34;" ; Times: 2
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:sechurae genus:Lycalopex" ; Times: 2
+	Query: "Murina aenea " ; Times: 1
+	Query: "Pteropus tuberculatus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-89453&#34;" ; Times: 4
+	Query: "scientificname:&#34;hipposideros pelingensis&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gymnocercus genus:Lycalopex institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:sechurae genus:Lycalopex institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173585&#34;" ; Times: 4
+	Query: "Hipposideros macrobullatus " ; Times: 1
+	Query: "Tragelaphus spekii" ; Times: 1
+	Query: "Kerivoula agnella " ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "156047" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Rattus koopmani " ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "catalognumber:168954 institutioncode:AMNH" ; Times: 2
+	Query: "Microcebus sambiranensis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51950&#34;" ; Times: 2
+	Query: "AMNH 29872" ; Times: 2
+	Query: "Thylogale lanatus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268391&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-100348&#34;" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Chlorocebus cynosuros " ; Times: 1
+	Query: "gbifdatasetid:96ca66b4-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "catalognumber:85542 institutioncode:AMNH" ; Times: 1
+	Query: "amnh 257947" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-35185&#34;" ; Times: 2
+	Query: "Heteromys anomalus" ; Times: 1
+	Query: "Newton 1868 Maynard" ; Times: 1
+	Query: "amnh 257948" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "queensland museum dasyurus" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Xenothrix mcgregori " ; Times: 1
+	Query: "order:Carnivora county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "anderson 1860" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Alouatta arctoidea " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19798&#34;" ; Times: 2
+	Query: "Sorex excelsus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90090&#34;" ; Times: 2
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51943&#34;" ; Times: 2
+	Query: "Graphiurus ocularis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-207705&#34;" ; Times: 2
+	Query: "Chlamyphorus retusus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-146807&#34;" ; Times: 2
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "specificepithet:silvicolum genus:Lophostoma country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "cephalophus weynsi" ; Times: 2
+	Query: "catalognumber:17239 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-100300&#34;" ; Times: 2
+	Query: "genus:Cervus stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16715&#34;" ; Times: 2
+	Query: "Neusticomys venezuelae " ; Times: 1
+	Query: "specificepithet:lineatus genus:Platyrrhinus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:stephensi genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Piliocolobus tephrosceles " ; Times: 1
+	Query: "AMNH 74086" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-18003&#34;" ; Times: 2
+	Query: "dasyurus geoffroii" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-20882&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:corsac genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "Cistugo lesueuri " ; Times: 1
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51948&#34;" ; Times: 4
+	Query: "Dicerorhinus sumatrensis" ; Times: 9
+	Query: "specificepithet:concolor genus:puma country:&#34;mexico&#34;" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51938&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-100350&#34;" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;kleberg&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:cirrhosus genus:Trachops institutioncode:AMNH" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "196013" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-201157&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16712&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon" ; Times: 1
+	Query: "Alouatta nigerrima " ; Times: 1
+	Query: "Podoxymys roraimae " ; Times: 1
+	Query: "catalognumber:92693 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34;" ; Times: 2
+	Query: "Glauconycteris alboguttata " ; Times: 1
+	Query: "specificepithet:sumichrasti country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Mormoops vntype:specimen institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-216356&#34;" ; Times: 2
+	Query: "genus:Callicebus country:&#34;Peru&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Graphiurus angolensis " ; Times: 1
+	Query: "order:primates locality:lagartococha river institutioncode:AMNH" ; Times: 1
+	Query: "19848" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32732&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21833&#34;" ; Times: 2
+	Query: "Monticolomys koopmani " ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos (zoo OR captive)" ; Times: 1
+	Query: "catalognumber:17237 institutioncode:AMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon institutioncode:AMNH" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32728&#34;" ; Times: 2
+	Query: "Tragulus nigricans " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19803&#34;" ; Times: 2
+	Query: "Indri" ; Times: 2
+	Query: "Echimys saturnus" ; Times: 1
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "Kerivoula myrella " ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Coendou vestitus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-88401&#34;" ; Times: 2
+	Query: "Dicerorhinus sumatrensis sumatrensis" ; Times: 1
+	Query: "specificepithet:pumilio genus:Rhinophylla country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Thomasomys ucucha " ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-139688&#34;" ; Times: 2
+	Query: "scientificname:&#34;harpyionycteris celebensis&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54268&#34;" ; Times: 4
+	Query: "Eira barbara" ; Times: 1
+	Query: "order:primates locality:cordillera vilcabamba institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-61147&#34;" ; Times: 6
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "dermoptera institutioncode:AMNH mappable:1" ; Times: 1
+	Query: "Chodsigoa lamula " ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes institutioncode:AMNH" ; Times: 1
+	Query: "Moschiola meminna " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-125578&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-238295&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173581&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:pallida genus:Vulpes" ; Times: 1
+	Query: "Cheirogaleus" ; Times: 3
+	Query: "Alticola montosa " ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive) institutioncode:AMNH" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-150023&#34;" ; Times: 2
+	Query: "Alces alces shirasi" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-125577&#34;" ; Times: 2
+	Query: "79588" ; Times: 1
+	Query: "Babyrousa celebensis " ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1900" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14118&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54318&#34;" ; Times: 2
+	Query: "specificepithet:magnirostrum genus:Uroderma country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Crocidura polia " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-217099&#34;" ; Times: 2
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "Chimarrogale sumatrana " ; Times: 1
+	Query: "tlacuatzin" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16148&#34;" ; Times: 2
+	Query: "scientificname:&#34;chlorocebus cynosuros&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peropteryx pallidoptera " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268389&#34;" ; Times: 2
+	Query: "catalognumber:85129 institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:83609 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-202270&#34;" ; Times: 6
+	Query: "Sundamys maxi " ; Times: 1
+	Query: "order:Primates locality:Solimoes River institutioncode:AMNH" ; Times: 2
+	Query: "Lama glama" ; Times: 1
+	Query: "scientificname:&#34;microcebus coquereli&#34;" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "Equus asinus somalicus" ; Times: 2
+	Query: "Rattus mollicomulus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-98153&#34;" ; Times: 2
+	Query: "Lepus hainanus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268394&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14111&#34;" ; Times: 4
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "specificepithet:crenulatum genus:Mimon institutioncode:AMNH" ; Times: 1
+	Query: "Stenocephalemys albipes " ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 4
+	Query: "vntype:specimen specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-22999&#34;" ; Times: 4
+	Query: "locality:mumi institutioncode:AMNH" ; Times: 1
+	Query: "Macaca pagensis " ; Times: 1
+	Query: "specificepithet:imberbis genus:Tragelaphus preparations:Skull" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51947&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14097&#34;" ; Times: 2
+	Query: "genus:proechimys county:&#34;Alto Amazonas&#34; stateprovince:&#34;Loreto&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32735&#34;" ; Times: 2
+	Query: "Cryptonanus ignitus " ; Times: 1
+	Query: "Lepilemur leucopus " ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 4
+	Query: "specificepithet:perspicillata genus:Carollia country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51939&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-11987&#34;" ; Times: 4
+	Query: "specificepithet:macrophyllum genus:Macrophyllum institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90423&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204145&#34;" ; Times: 4
+	Query: "Lepus oiostolus " ; Times: 1
+	Query: "Thomasomys popayanus " ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Ovis dalli mappable:1" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-179168&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204151&#34;" ; Times: 4
+	Query: "eupleridae" ; Times: 2
+	Query: "Hemigalus derbyanus " ; Times: 1
+	Query: "genus:mephitis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Coendou nycthemera " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-244488&#34;" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-17602&#34;" ; Times: 2
+	Query: "Loxodonta africana cyclotis" ; Times: 4
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-200104&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-18000&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-3283&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-80598&#34;" ; Times: 2
+	Query: "Pithecia albicans " ; Times: 1
+	Query: "specificepithet:silvicolum genus:Lophostoma institutioncode:AMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:microtis genus:Atelocynus institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-178&#34;" ; Times: 4
+	Query: "Hesperoptenus gaskelli " ; Times: 1
+	Query: "Santamartamys rufodorsalis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16716&#34;" ; Times: 2
+	Query: "specificepithet:tigris genus:panthera institutioncode:AMNH" ; Times: 1
+	Query: "Crocidura indochinensis " ; Times: 1
+	Query: "scientificname:&#34;macaca tonkeana&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-52093&#34;" ; Times: 2
+	Query: "skull specificepithet:temminckii genus:manis" ; Times: 3
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Sorex sinalis " ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-40100&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-113752&#34;" ; Times: 6
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "aye aye" ; Times: 1
+	Query: "Roosevelt genus:Marmota" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-35071&#34;" ; Times: 2
+	Query: "specificepithet:gambianus genus:Cricetomys country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Harpyionycteris celebensis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21837&#34;" ; Times: 2
+	Query: "Mustela lutreolina " ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (captive OR zoo) institutioncode:AMNH" ; Times: 1
+	Query: "Dasyprocta azarae" ; Times: 1
+	Query: "catalognumber:239440 institutioncode:AMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 1
+	Query: "Herpestes sanguineus " ; Times: 1
+	Query: "callosciurus nigrovittatus" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "Tateomys macrocercus " ; Times: 1
+	Query: "stochomys" ; Times: 1
+	Query: "Mus fernandoni " ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (callithrix)" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon" ; Times: 1
+	Query: "Bassariscus and California" ; Times: 3
+	Query: "Ichthyomys stolzmanni " ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "Monachus tropicalis vntype:specimen institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-125587&#34;" ; Times: 2
+	Query: "Choeroniscus periosus" ; Times: 1
+	Query: "Macroscelidea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "scientificname:&#34;nasalis concolor&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173579&#34;" ; Times: 2
+	Query: "catalognumber:69702 institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54085&#34;" ; Times: 2
+	Query: "Loxodonta cyclotis" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-144151&#34;" ; Times: 2
+	Query: "Rattus hoffmanni " ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 264480" ; Times: 2
+	Query: "specificepithet:elongatus genus:Phyllostomus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia stateprovince:&#34;oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39087&#34;" ; Times: 4
+	Query: "Pteropus howensis " ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive) institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-46409&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-202863&#34;" ; Times: 4
+	Query: "Bassariscus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54453&#34;" ; Times: 6
+	Query: "Saxatilomys paulinae " ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Prosciurillus abstrusus " ; Times: 1
+	Query: "Pipistrellus minahassae " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-31394&#34;" ; Times: 2
+	Query: "specificepithet:murinus genus:Graphiurus country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 16
+	Query: "specificepithet:ruddi genus:tachyoryctes country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Hipposideros doriae " ; Times: 1
+	Query: "specificepithet:brevicauda genus:proechimys stateprovince:&#34;loreto&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204107&#34;" ; Times: 4
+	Query: "Notiosorex stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-42219&#34;" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Rhipidomys ochrogaster " ; Times: 1
+	Query: "Rhinolophus formosae " ; Times: 1
+	Query: "Blarinella wardi " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-10056&#34;" ; Times: 2
+	Query: "Peropteryx trinitatis " ; Times: 1
+	Query: "Lepus comus " ; Times: 1
+	Query: "specificepithet:derbianus genus:Caluromys" ; Times: 2
+	Query: "locality:&#34;Capao de Boi&#34; institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:troglodytes genus:Pan preparations:skeleton" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:stephensi genus:Neotoma stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:rex genus:tachyoryctes country:&#34;kenya&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-150026&#34;" ; Times: 2
+	Query: "panthera tigris tigris" ; Times: 3
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos institutioncode:AMNH" ; Times: 1
+	Query: "sylvilagus floridanus massachusetts" ; Times: 1
+	Query: "county:&#34;bajo baudo&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-119585&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-8049&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-3283&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51936&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-188&#34;" ; Times: 2
+	Query: "AMNH 272698" ; Times: 2
+	Query: "specificepithet:cirrhosus genus:Trachops country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-35403&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-130389&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268390&#34;" ; Times: 2
+	Query: "specificepithet:Americanus genus:Ursus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "smutsia" ; Times: 1
+	Query: "Isthmomys pirrensis" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-11185&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51944&#34;" ; Times: 2
+	Query: "specificepithet:murinus genus:Graphiurus country:&#34;kenya&#34;" ; Times: 2
+	Query: "order:primates stateprovince:&#34;Moquegua&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Mops niangarae " ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "vntype:specimen specificepithet:corsac genus:Vulpes" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-10271&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:univittatus genus:Hybomys basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "222778" ; Times: 1
+	Query: "&#34;longimembris brevinasus&#34;" ; Times: 1
+	Query: "bubalus depressicornis" ; Times: 1
+	Query: "AMNH 272714" ; Times: 2
+	Query: "scientificname:&#34;micronycteris matses&#34;" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 8
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51940&#34;" ; Times: 4
+	Query: "catalognumber:64659 institutioncode:AMNH" ; Times: 2
+	Query: "Alces alces gigas" ; Times: 3
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "Rousettus amplexicaudatus hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14112&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-10058&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Hipposideros pelingensis " ; Times: 1
+	Query: "scientificname:&#34;pteropus livingstonii&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rueppellii genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "Paruromys dominator " ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Crocidura congobelgica " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-3819&#34;" ; Times: 4
+	Query: "Hyosciurus ileile " ; Times: 1
+	Query: "Newton 1868" ; Times: 1
+	Query: "order:primates locality:pisqui institutioncode:AMNH" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173495&#34;" ; Times: 4
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51949&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-200462&#34;" ; Times: 4
+	Query: "catalognumber:57059 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-38824&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204142&#34;" ; Times: 4
+	Query: "Equus asinus" ; Times: 2
+	Query: "specificepithet:vulgaris genus:Sciurus (zoo OR captive)" ; Times: 1
+	Query: "196029" ; Times: 2
+	Query: "genus:Oligoryzomys institutioncode:AMNH hastypestatus:1" ; Times: 1
+	Query: "euoticus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-139&#34;" ; Times: 4
+	Query: "amnh 257938" ; Times: 1
+	Query: "catalognumber:34255 institutioncode:AMNH" ; Times: 2
+	Query: "genus:Cervus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51937&#34;" ; Times: 2
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Montana&#34;" ; Times: 3
+	Query: "Cryptotis mayensis" ; Times: 1
+	Query: "catalognumber:62319 institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-16713&#34;" ; Times: 2
+	Query: "Brachytarsomys villosa " ; Times: 1
+	Query: "Cephalophus silvicultor " ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;brazoria&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Proechimys stateprovince:&#34;Pando&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "114020" ; Times: 1
+	Query: "Thomasomys eleusis " ; Times: 1
+	Query: "R-194073" ; Times: 1
+	Query: "proechimys canicollis" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-13982&#34;" ; Times: 4
+	Query: "Tylomys fulviventer " ; Times: 1
+	Query: "Nephelomys caracolus " ; Times: 1
+	Query: "vntype:specimen specificepithet:australis genus:Dusicyon" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204221&#34;" ; Times: 4
+	Query: "order:primates county:&#34;manu&#34; institutioncode:AMNH" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Maine&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-41355&#34;" ; Times: 2
+	Query: "dephomys" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19802&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-200049&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-129375&#34;" ; Times: 2
+	Query: "220969" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21832&#34;" ; Times: 2
+	Query: "Rheomys mexicanus " ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhinolophus montanus " ; Times: 1
+	Query: "Chiropodomys karlkoopmani " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39083&#34;" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-80114&#34;" ; Times: 4
+	Query: "Cephalophus weynsi " ; Times: 1
+	Query: "Cephalophus harveyi " ; Times: 1
+	Query: "Chrysospalax trevelyani " ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Vermont&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;bee&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; recordedby:*weber* year &gt;= 1925 year &lt;= 1960" ; Times: 2
+	Query: "Sturnira sorianoi " ; Times: 1
+	Query: "Crunomys celebensis " ; Times: 1
+	Query: "specificepithet:californicus genus:microtus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Cheirogaleus medius" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-8011&#34;" ; Times: 4
+	Query: "Marmosops caucae" ; Times: 2
+	Query: "vntype:specimen specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Eropeplus canus " ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "catalognumber:244407 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-125585&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54082&#34;" ; Times: 2
+	Query: "Rhinoceros sondaicus" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39090&#34;" ; Times: 4
+	Query: "Bunomys penitus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173580&#34;" ; Times: 2
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Chimarrogale styani " ; Times: 1
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54269&#34;" ; Times: 4
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21796&#34;" ; Times: 2
+	Query: "cuon alpinus" ; Times: 4
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "scientificname:&#34;procolobus badius&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "Alces alces cameloides" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-119619&#34;" ; Times: 4
+	Query: "catalognumber:172267" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90014&#34;" ; Times: 4
+	Query: "Crocidura roosevelti " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-89454&#34;" ; Times: 4
+	Query: "specificepithet:quadricornis genus:Tetracerus preparations:Skull" ; Times: 1
+	Query: "Eliurus majori " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-122675&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-20821&#34;" ; Times: 4
+	Query: "zapus hudsonicus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90258&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-44&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14119&#34;" ; Times: 4
+	Query: "order:Primates locality:utuquinia institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-150449&#34;" ; Times: 2
+	Query: "Tragelaphus angasii" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:ruddi genus:tachyoryctes country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lepus corsicanus " ; Times: 1
+	Query: "specificepithet:brevicauda genus:proechimys stateprovince:&#34;Loreto&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "Microperoryctes murina " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173587&#34;" ; Times: 4
+	Query: "specificepithet:musculus genus:Mus country:&#34;Spain&#34;" ; Times: 4
+	Query: "114041" ; Times: 1
+	Query: "Margaretamys parvus " ; Times: 1
+	Query: "Muntiacus crinifrons " ; Times: 1
+	Query: "family:Felidae order:Carnivora stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Molossus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Anoura latidens" ; Times: 1
+	Query: "Pangolin" ; Times: 2
+	Query: "catalognumber:86840 institutioncode:AMNH" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54282&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-217166&#34;" ; Times: 2
+	Query: "Tragelaphus buxtoni" ; Times: 1
+	Query: "Hipposideros breviceps " ; Times: 1
+	Query: "266723" ; Times: 1
+	Query: "catalognumber:13216 institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-81897&#34;" ; Times: 4
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "scientificname:&#34;tonatia saurophila&#34;" ; Times: 1
+	Query: "Xaymaca fulvopulvis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-69399&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex" ; Times: 1
+	Query: "Praomys lukolelae " ; Times: 1
+	Query: "Rattus salocco " ; Times: 1
+	Query: "Glauconycteris machadoi " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-10423&#34;" ; Times: 6
+	Query: "specificepithet:discolor genus:Phyllostomus institutioncode:AMNH" ; Times: 3
+	Query: "(Gilgit India)" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-235650&#34;" ; Times: 2
+	Query: "Vernaya fulva " ; Times: 1
+	Query: "locality:san jose county:&#34;quito&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90200&#34;" ; Times: 2
+	Query: "specificepithet:stenops genus:Phylloderma institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-125586&#34;" ; Times: 2
+	Query: "Neotoma chrysomelas " ; Times: 1
+	Query: "Coendou ichillus " ; Times: 1
+	Query: "AMNH 73277" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-119510&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:microtis genus:Atelocynus" ; Times: 3
+	Query: "specificepithet:bilobatum genus:Uroderma country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Bassariscus astutus and California" ; Times: 3
+	Query: "order:primates locality:pavas institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-4254&#34;" ; Times: 4
+	Query: "sylvilagus floridanus vermont" ; Times: 3
+	Query: "Tonatia saurophila " ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Chaerephon solomonis " ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 21
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-70266&#34;" ; Times: 4
+	Query: "Nesolagus timminsi " ; Times: 1
+	Query: "Macaca tonkeana " ; Times: 1
+	Query: "specificepithet:mesomelas genus:dendromus country:&#34;kenya&#34;" ; Times: 1
+	Query: "258270" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-98151&#34;" ; Times: 2
+	Query: "Sciurus gilvigularis " ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:bengalensis genus:Vulpes" ; Times: 1
+	Query: "Neofelis diardi " ; Times: 1
+	Query: "order:Artiodactyla institutioncode:AMNH" ; Times: 2
+	Query: "Pogonomelomys brassi " ; Times: 1
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "order:primates locality:beni river institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 269569" ; Times: 1
+	Query: "Glauconycteris poensis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39086&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21836&#34;" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus country:&#34;Algeria&#34;" ; Times: 1
+	Query: "Caracal caracal" ; Times: 2
+	Query: "catalognumber:10231 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "specificepithet:mordax genus:Lonchophylla country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-88397&#34;" ; Times: 2
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19340&#34;" ; Times: 4
+	Query: "specificepithet:leucogaster genus:onychomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Uropsilus gracilis " ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis year &gt;= 1977 year &lt;= 2018" ; Times: 1
+	Query: "Hystrix javanica " ; Times: 1
+	Query: "class:Mammalia institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-213950&#34;" ; Times: 2
+	Query: "specificepithet:QUARLESI genus:BUBALUS" ; Times: 1
+	Query: "specificepithet:gigantea genus:manis (skull)" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-40049&#34;" ; Times: 2
+	Query: "Mormopterus phrudus " ; Times: 1
+	Query: "183292" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "AMNH 254058" ; Times: 2
+	Query: "genus:Cervus stateprovince:California" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90176&#34;" ; Times: 2
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-135017&#34;" ; Times: 4
+	Query: "scientificname:&#34;macaca brunnescens&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-98206&#34;" ; Times: 2
+	Query: "locality:cerro galeras" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32734&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-120444&#34;" ; Times: 2
+	Query: "AMNH 68640" ; Times: 5
+	Query: "Setifer setosus" ; Times: 2
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "placenta" ; Times: 1
+	Query: "146501" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:stone year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-150132&#34;" ; Times: 2
+	Query: "Grammomys caniceps " ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 1
+	Query: "genus:taxidea stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54452&#34;" ; Times: 6
+	Query: "genus:Rattus stateprovince:&#34;British columbia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-32733&#34;" ; Times: 2
+	Query: "Sorex volnuchini " ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 2
+	Query: "specificepithet:spurrelli genus:Lionycteris country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:brasiliense genus:Lophostoma country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:brevicauda genus:proechimys county:&#34;Alto Amazonas&#34; stateprovince:&#34;Loreto&#34; country:&#34;peru&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-10057&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-30249&#34;" ; Times: 4
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus county:&#34;coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon institutioncode:AMNH" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "specificepithet:longimembris county:&#34;San Diego&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-180294&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39089&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173583&#34;" ; Times: 4
+	Query: "scientificname:&#34;hipposideros grandis&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "eumops floridanus" ; Times: 2
+	Query: "MSB 56363" ; Times: 2
+	Query: "order:primates locality:aroa institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "139594" ; Times: 1
+	Query: "genus:Neacomys hastypestatus:1" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51935&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-238496&#34;" ; Times: 4
+	Query: "order:primates county:&#34;recreio&#34; institutioncode:AMNH" ; Times: 1
+	Query: "genus:lophiomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "order:primates locality:chimore river institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-98154&#34;" ; Times: 2
+	Query: "142457" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-139689&#34;" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pteropus livingstonii " ; Times: 1
+	Query: "Lariscus niobe " ; Times: 1
+	Query: "Presbytis chrysomelas " ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-46410&#34;" ; Times: 2
+	Query: "46181" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-173586&#34;" ; Times: 4
+	Query: "Saguinus niger " ; Times: 1
+	Query: "Melomys frigicola " ; Times: 1
+	Query: "Platyrrhinus aurarius " ; Times: 1
+	Query: "AMNH 264883" ; Times: 2
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "Phaner electromontis " ; Times: 1
+	Query: "specificepithet:johnstoni genus:Okapia" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-216397&#34;" ; Times: 2
+	Query: "64210" ; Times: 1
+	Query: "Muntiacus putaoensis " ; Times: 1
+	Query: "Syntheosciurus brochus " ; Times: 1
+	Query: "Kobus megaceros " ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Cheirogaleus major preparations:Skull" ; Times: 1
+	Query: "catalognumber:17848 institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-13796&#34;" ; Times: 2
+	Query: "Crown Island new guinea" ; Times: 1
+	Query: "catalognumber:77534 institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-201231&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-295&#34;" ; Times: 4
+	Query: "Bunolagus monticularis " ; Times: 1
+	Query: "specificepithet:americanus genus:ursus country:&#34;mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-10059&#34;" ; Times: 2
+	Query: "Paradoxurus jerdoni " ; Times: 1
+	Query: "Moojen" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus class:Mammalia county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-244487&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90088&#34;" ; Times: 2
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-17605&#34;" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus stateprovince:California" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Nycticebus bengalensis" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51941&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MS-10060&#34;" ; Times: 2
+	Query: "order:Carnivora country:&#34;madagascar&#34;" ; Times: 3
+	Query: "AMNH 224119" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive)" ; Times: 2
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon" ; Times: 1
+	Query: "Taeromys microbullatus " ; Times: 1
+	Query: "Muntiacus vuquangensis " ; Times: 1
+	Query: "genus:Neotoma county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 3
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Sigmodon peruanus " ; Times: 1
+	Query: "Microgale monticola " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204143&#34;" ; Times: 4
+	Query: "Nectomys palmipes " ; Times: 1
+	Query: "Phaner pallescens " ; Times: 1
+	Query: "Elephas maximus indicus" ; Times: 2
+	Query: "Crossarchus alexandri " ; Times: 1
+	Query: "Apomys insignis " ; Times: 1
+	Query: "catalognumber:97206 institutioncode:AMNH" ; Times: 2
+	Query: "genus:Callicebus institutioncode:AMNH" ; Times: 1
+	Query: "Alces alces americana" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-17604&#34;" ; Times: 2
+	Query: "Sigmodon inopinatus " ; Times: 1
+	Query: "Eptesicus tatei " ; Times: 1
+	Query: "Cebus brunneus " ; Times: 1
+	Query: "Rhinoceros sondaicus sondaicus" ; Times: 3
+	Query: "vntype:specimen country:&#34;United States&#34; (macaca mulatta)" ; Times: 1
+	Query: "Heliosciurus angola" ; Times: 1
+	Query: "specificepithet:audax genus:tachyoryctes country:&#34;kenya&#34;" ; Times: 2
+	Query: "scientificname:&#34;euoticus elegantulus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:MO-4253&#34;" ; Times: 4
+	Query: "Halichoerus grypus" ; Times: 3
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-212844&#34;" ; Times: 4
+	Query: "vntype:specimen country:&#34;United States&#34; (pan troglodytes)" ; Times: 1
+	Query: "vntype:specimen specificepithet:bengalensis genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-90304&#34;" ; Times: 2
+	Query: "specificepithet:griseus genus:Lycalopex (captive OR zoo)" ; Times: 1
+	Query: "AMNH 262312" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-88404&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-268392&#34;" ; Times: 2
+	Query: "cro" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51946&#34;" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:saurophila genus:Tonatia institutioncode:AMNH" ; Times: 1
+	Query: "Pteropus tokudae " ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-119620&#34;" ; Times: 4
+	Query: "Euoticus elegantulus " ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 14
+	Query: "scientificname:&#34;presbytis potenziani&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-202331&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (zoo OR captive) institutioncode:AMNH" ; Times: 1
+	Query: "locality:cordillera vilcabamba institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:molossus genus:Molossus country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-19801&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-129374&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-21835&#34;" ; Times: 2
+	Query: "Tarsius pelengensis " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-81900&#34;" ; Times: 4
+	Query: "Maxomys musschenbroekii " ; Times: 1
+	Query: "AMNH 47852" ; Times: 1
+	Query: "Coendou rufescens " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39082&#34;" ; Times: 6
+	Query: "specificepithet:rex genus:tachyoryctes country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54261&#34;" ; Times: 4
+	Query: "specificepithet:thous genus:Cerdocyon (captive OR zoo)" ; Times: 1
+	Query: "Hyosciurus heinrichi " ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Cryptotis colombiana" ; Times: 3
+	Query: "myrmecophaga" ; Times: 1
+	Query: "specificepithet:mesomelas genus:dendromus country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Tonkinomys daovantieni " ; Times: 1
+	Query: "CHAGRES class:MAMMALIA country:&#34;PANAMA&#34;" ; Times: 1
+	Query: "Micronycteris matses " ; Times: 1
+	Query: "vntype:specimen specificepithet:rueppellii genus:Vulpes" ; Times: 1
+	Query: "Rattus bontanus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-88403&#34;" ; Times: 2
+	Query: "specificepithet:procyonoides genus:Nyctereutes (captive OR zoo)" ; Times: 1
+	Query: "Eulemur fulvus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-54083&#34;" ; Times: 2
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:224835" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-15675&#34;" ; Times: 4
+	Query: "melursus" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Cheirogaleus major" ; Times: 6
+	Query: "108688" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-39085&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-51945&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufus genus:lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "AMNH 98666" ; Times: 1
+	Query: "MOnachus vntype:specimen institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:m-276010" ; Times: 1
+	Query: "Melomys arcium " ; Times: 1
+	Query: "Marmosa tyleriana " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-204141&#34;" ; Times: 4
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "AMNH 275574" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "order:primates locality:tijamuchi institutioncode:AMNH" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-122674&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-70218&#34;" ; Times: 2
+	Query: "specificepithet:tridecemlineatus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Podogymnura truei " ; Times: 1
+	Query: "Genetta johnstoni " ; Times: 1
+	Query: "vntype:specimen specificepithet:vetulus genus:Lycalopex" ; Times: 2
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "183644" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-52000&#34;" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Chodsigoa parca " ; Times: 1
+	Query: "genus:lophiomys country:&#34;kenya&#34; institutioncode:AMNH" ; Times: 1
+	Query: "123022" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14117&#34;" ; Times: 4
+	Query: "specificepithet:auritus genus:Chrotopterus institutioncode:AMNH" ; Times: 1
+	Query: "Eremodipus lichtensteini " ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:AMNH" ; Times: 1
+	Query: "Cebus cuscinus " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:AMNH:Mammals:M-14107&#34;" ; Times: 4
+	Query: "Cheirogaleus medius preparations:Skull" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "genus:gorilla" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Chlamyphorus" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "cephalophus dorsalis" ; Times: 4
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "order:Primates county:&#34;Anapolis&#34; stateprovince:&#34;Goias&#34; country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon institutioncode:AMNH" ; Times: 1
+	Query: "choloepus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 315 (out of 1892 download events in this period)
+Total number of records downloaded: 336118
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 233
+	Country: Australia ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Finland ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 171
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-04 ; Times: 2
+	Date: 2018-02-21 ; Times: 8
+	Date: 2018-02-20 ; Times: 13
+	Date: 2018-02-23 ; Times: 14
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-24 ; Times: 5
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-28 ; Times: 12
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 14
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 12
+	Date: 2018-02-13 ; Times: 11
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Vermont&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Setifer setosus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "tremarctos" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "family:Mustelidae county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Heteromys anomalus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 11
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Cervus stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "smutsia" ; Times: 1
+	Query: "tatera indica" ; Times: 1
+	Query: "Isthmomys pirrensis" ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Natalus tumidirostris" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "genus:rattus stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Maine&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;mexico&#34;" ; Times: 1
+	Query: "Glossophaga longirostris" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Perognathus longimembris pacificus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Peromyscus furvus" ; Times: 1
+	Query: "Rousettus amplexicaudatus hastissue:1" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Gerbillus nanus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ordii genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anoura latidens" ; Times: 1
+	Query: "Cryptotis mayensis" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "family:felidae order:Carnivora class:mammalia stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "order:Carnivora country:&#34;madagascar&#34;" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Mormoops blainvillei" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "peromyscus gratus" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "specificepithet:ludovici genus:Sturnira" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Akodon azarae" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "family:Bovidae institutioncode:AMNH" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "vntype:specimen (colobus guereza)" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Vermont&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "class:Mammalia institutioncode:AMNH" ; Times: 2
+	Query: "Tamias minimus" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Choeroniscus periosus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "colomys" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 1
+	Query: "Aotus azarae" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Meriones crassus" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "Cryptotis colombiana" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "genus:Mus order:Rodentia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "Rhombomys" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "class:Mammalia locality:Navajo mountain" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Meriones libycus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Tamias merriami" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "eupleridae" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "family:Felidae order:Carnivora stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "specificepithet:Americanus genus:Ursus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus continent:africa" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 2
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Gerbillus tarabuli" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "order:Rodentia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "Meriones shawi" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Auliscomys boliviensis" ; Times: 1
+	Query: "Dasyprocta azarae" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nesokia" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
